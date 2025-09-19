@@ -1,39 +1,19 @@
-# Flowershow Template 🌸
-
-Welcome to the Flowershow Template! This is a ready-to-use template for creating beautiful websites from your markdown content, particularly optimized for Obsidian vaults.
-
-## What is this template?
-
-This template serves as a foundation for:
-- Publishing your Obsidian vault as a website
-- Creating a new markdown-based website from scratch
-- Building documentation sites, blogs, or personal websites
-
-## Getting Started
-
-You can use this template in two main ways:
-
-### 1. Publishing Your Obsidian Vault
-
-If you have an existing Obsidian vault:
-1. Install Obsidian Flowershow plugin
-2. Adjust the configuration
-3. Publish you vault
-
-Your Obsidian links, callouts, and other features will be preserved and rendered beautifully on the web.
-
-### 2. Creating a New Site
-
-If you're starting from scratch:
-1. Use this template as your base
-2. Modify the content as you wish using an editor of your choise (or GitHub UI)
-3. Add your own markdown files
-
-## Learn More
-
-For more information about Flowershow and how to customize this template, visit:
-- [Flowershow Documentation](https://flowershow.app/docs)
-
 ---
+lastSync: Thu Sep 18 2025 23:41:06 GMT-0400 (Eastern Daylight Time)
+---
+# README
+---
+Hello everyone these are my notes from Grade 12-First Year at McMaster (will be updated frequently)
 
-Happy publishing! 🚀
+## General
+- To access my notes from McMaster go to [[Year I]] to access all my year one notes or you can just go to the file explorer on the top left and open Academics>Year I>Fall Semester>Whichever course
+- Each course is organized in units folders and each unit folder will have lectures, labs, tutorials, and case studies. The files will be named with: 
+	- T=theme or tutorial
+	- M=module
+	- L=lecture or lab
+	- CS=case study
+	- A or R at the end to indicate either applied or review lecture
+- For example T1L1R means "Theme 1 Lecture 1 Review" or M5 means "Module 5"
+## Math Specific
+- My math notes are currently unsupported but I will try to find a fix soon
+## 
