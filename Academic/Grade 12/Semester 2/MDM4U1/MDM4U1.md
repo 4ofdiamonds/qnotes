@@ -1,0 +1,47 @@
+---
+lastSync: Mon Sep 15 2025 20:58:50 GMT-0400 (Eastern Daylight Time)
+---
+%% Begin Landmark %%
+- **Unit 1**
+	- [[1.1 Introduction to Probability]]
+	- [[1.2 Introduction to Probability]]
+	- [[1.4 Homework]]
+	- [[1.5 Dependent and Independent Events]]
+- **Unit 2**
+	- [[2.0 Unit Review]]
+	- [[2.2 Fundamental Counting Principle]]
+	- [[2.3 Permutations and Factorials]]
+	- [[2.4 The Rule of Sum]]
+	- [[2.5 Probability Problems Using Permutations]]
+- **Unit 3**
+	- [[3.0]]
+	- [[3.1 Permutations of Non-ordered Elements]]
+	- [[3.2 Combinations]]
+	- [[3.3 Problem Solving with Combinations]]
+	- [[3.4 Pascals Triangle]]
+	- [[3.5 Binomial Expansion Using Pascals Triangle]]
+	- [[3.5 Probabilities Using Combinations]]
+	- [[3.6 Unit Review]]
+- **Unit 4**
+	- [[4.1 Probability Distribution]]
+	- [[4.2 Uniform Distribution]]
+	- [[4.3 Binomial Distribution]]
+	- [[4.4 Hypergeometric Distributions]]
+	- [[4.5 Comparing and Selecting Discrete Probability Distributions]]
+- **Unit 5**
+	- [[5.2 Principles of Data Collection]]
+	- [[5.3 Collecting Data]]
+	- [[5.5 Bias]]
+- **Unit 6**
+	- [[6.1 One Variable Data Analysis]]
+	- [[6.2 Measures of Spread]]
+	- [[6.3 Standard Deviation]]
+	- [[6.4 Interpreting Statistical Summaries]]
+- **Unit 7**
+	- [[7.2 and 7.3 Normal Distribution]]
+- **Unit 8**
+	- [[8.1 Lines of Best Fit]]
+	- [[8.2 Cause and Effect]]
+	- [[8.4 Uses and Misuses of Data]]
+
+%% End Landmark %%
