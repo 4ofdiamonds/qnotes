@@ -1,0 +1,74 @@
+---
+lastSync: Thu Sep 18 2025 23:40:06 GMT-0400 (Eastern Daylight Time)
+dg-publish: true
+---
+%% Begin Waypoint %%
+- **Fall Semester**
+	- **[[Anatomy 1A03]]**
+		- **Unit 1 - Everything**
+			- **Case Studies**
+				- [[CS1]]
+			- **Modules**
+				- [[M1 - Terminology and the Body Plan]]
+				- [[M2 - Homeostasis]]
+				- [[M3 - Embryology and Development]]
+				- [[M4 - Embryology and Development Part 2]]
+				- [[M5 - Embryology and Development Part 3]]
+				- [[M6 - Embryology and Development Part 4]]
+	- **[[Biology 1A03]]**
+		- **Unit 0 - About the Course**
+			- **Lectures**
+		- **Unit 1 - The Structure of the Cell**
+			- **Lectures**
+				- [[T1L1R - Cellular and Molecular Biology]]
+				- [[T1L2A - Amazing Energy Reserves in Animals]]
+				- [[T1L3R - Cellular and Molecular Biology]]
+				- [[T1L4A - Understanding Cystic Fibrosis]]
+			- **Modules**
+				- [[T1M1 - The Composition and Structure of Membranes]]
+				- [[T1M2 - Organelles and Energy]]
+				- [[T1M3 - Proteins]]
+				- [[T1M4 - Nucleic Acids]]
+			- **Tutorial**
+	- **[[Foundations 1K03]]**
+		- **Unit 1 - History and Research**
+			- **Lectures**
+
+			- **Tutorials**
+				- [[U1T1 - Referencing]]
+	- **[[Math 1A03]]**
+		- **Unit 1 - Review**
+			- **Lectures**
+				- [[1.0 - Trigonometry]]
+				- [[1.5 - Inverse Function and Logorithms]]
+			- **Tutorials**
+				- [[U1T1]]
+		- **Unit 2 - Continuity**
+			- **Lectures**
+				- [[2.5 - Continuity]]
+				- [[2.7 - Derivatives]]
+				- [[2.8 Derivatives as a Function]]
+			- **Tutorials**
+				- [[U2T1]]
+		- **Unit 3 - Derivatives**
+			- **Lectures**
+				- [[3.1 Derivative of polynomials and the exponential]]
+				- [[3.2 - The product and quotient rule]]
+				- [[3.3 - Derivative of trigonometric functions]]
+	- **[[Physics 1C03]]**
+		- **Unit 1 - 1D Kinematics**
+			- **Labs**
+				- [[Lab 1 - Kinematics]]
+			- **Lectures**
+				- [[1.0 Physics for the Chemical and Physical Sciences]]
+				- [[U1L1 - 1D Kinematics]]
+				- [[U1L2 - Kinematics in 1D]]
+				- [[U1L3 - Kinematics in 1D]]
+				- [[U1L4 - 1D Kinematics]]
+		- **Unit 2 - Momentum**
+			- **Lectures**
+				- [[U2L1 - Momentum]]
+				- [[U2L2 - Momentum]]
+				- [[U2L3 - Momentum]]
+
+%% End Waypoint %%
