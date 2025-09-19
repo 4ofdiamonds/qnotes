@@ -1,0 +1,15 @@
+---
+lastSync: Wed Mar 26 2025 10:20:49 GMT-0400 (Eastern Daylight Time)
+---
+- Appropriate: take another cultures things for yourself
+- Post Colonial Criticism
+	- Examines literature produced by colonial powers and works produced by those who were or are colonized
+	- Post-Colonial theory looks at issues if power, economics, religion, and culture, and how there elements work in relation to colonial hegemony
+- How colonial texts treat characters and events
+	- The colonized are inferior
+	- Land is for taking
+	- White Saviors
+	- Savages, Subhuman
+	- Pan-Indigenous, Pan-African
+	- Non-Existent (invisible)
+- 
