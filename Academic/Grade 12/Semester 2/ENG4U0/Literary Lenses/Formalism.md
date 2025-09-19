@@ -1,0 +1,18 @@
+---
+lastSync: Tue Mar 04 2025 09:35:59 GMT-0500 (Eastern Standard Time)
+---
+- Formalism
+	- The idea behind formalism is analyzing a text objectively, looking only at its formal elements. 
+	- Bringing out an idea that is universal and not tied to author, reader or any particular social issue. It came about trying to look at it scientifically and extracting a truth from it.
+	- Turned into New Historicism in the West
+	- Utilizes close reading with special emphasis on connotative and associate values of words. 
+	- Formalism presumes that the work you are analyzing is standalone
+- Characteristics
+	- Form = Content
+	- Example Monopoly:
+		- The colors
+		- The pieces
+		- Clockwise motion for the passage of time
+	- Associative Language
+		- Every single word is intentional and looking at the connotation to extract meaning
+	- 
