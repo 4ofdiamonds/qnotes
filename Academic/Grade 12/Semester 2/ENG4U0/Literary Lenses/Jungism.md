@@ -1,0 +1,22 @@
+---
+lastSync: Tue Mar 25 2025 09:20:59 GMT-0400 (Eastern Daylight Time)
+---
+- Persona
+	- Code Switching
+	- Switching who you are and switch depending on what the environment calls for
+	- The self that you present to other people
+- Shadow
+	- Deep seeded, undesirable aspect of yourself
+	- The ideas are opposed to the conscious or persona
+- Anima/Animus
+	- Gender presentation and the anima is the femininity in men and the animus is the masculinity found in women
+- Archetypal Literary Theory
+	- Primordial image residing in the collective unconscious of people, expressed by literature, myth, folklore and ritual. 
+	- It is a pattern or universal theme
+- Collective Unconscious
+	- Refers to the part of a persons unconscious which is common to all human beings. 
+	- Arises in each individual from common experience and shared culture. 
+- Common Experiences:
+	- Birth, Grief, Death...
+- Tropes vs Archetypes: 
+	- Archetypes never get old and can be retold in many forms over generations 
