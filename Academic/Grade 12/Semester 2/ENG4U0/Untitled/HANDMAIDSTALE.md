@@ -1,0 +1,41 @@
+---
+lastSync: Sat Apr 12 2025 01:18:46 GMT-0400 (Eastern Daylight Time)
+---
+- Question: How do regimes attempt to exterminate hope within their population
+	- Value of a name and choices: 
+	- Memories and HP: 
+		- Increase max HP by defying the gilead
+		- Increase hope by using memories and different symbols around the world
+	- Fighting with other people, lack of communication: 
+	- Very little to do in the game
+- Areas of the game
+	- 1. Offreds Room
+	- 2. Hallway
+	- 3. Sitting Room
+	- 4. Kitchen
+	- 5. Garden
+	- 6. Outside 
+	- 7. The market
+		- Shops in the market
+	- 8. The Wall
+	- 9. Church
+- Boss Fight
+	- Wordle
+	- Dead Daughter
+	- Super Position of Luke
+	- Unwoman Moira
+	- A different version of Offred
+	- You is when Offred while, I is referring to the player
+	- Offred → Loosing Hope
+	- Player → Maintaining Hope
+- Weapons
+- Gold
+	- Tokens
+- Attacking means:  Gaining Power → Gaining Control over others → Others have less hope
+	- At the beginning LV means level of volume or how heard you are and the more heard you are the greater your collective hope
+	- Lacking Fertility in the presence of power
+	- Faking Fertility in the presence of the handmaids
+- Defending means: Preventing yourself from loosing hope and creating a collective hope
+- How does a fight between the player (old offred) and her daughter (source of hope)
+	- Should be a fight between the gileads oppression and the old offred
+	- 
