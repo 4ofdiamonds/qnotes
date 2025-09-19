@@ -1,0 +1,57 @@
+---
+lastSync: Sun Mar 16 2025 15:44:40 GMT-0400 (Eastern Daylight Time)
+---
+ - 1. Two Ships A and B, leave the port at the same time. Ship A travels northwest at 24 knots, and ship B travels at 28 knots in a direction 40 west of south. (1 knot = 1 nautical mile/hour) What are
+	- a) magnitude and direction of the velocity of the ship A relative to B
+		-  Variables
+			- $\vec{a}=[24, 135]$
+			- $\vec{a}=[-16.97, 16.97]$
+			- $\vec{b}=[28, 230]$
+			- $\vec{b}=[-18.00, -21.45]$
+		- Equations
+			- $$\vec{ab}=\vec{b}-\vec{a}$$
+			- $$\vec{ab}=[-16.97, 16.97]-[-18.00, -21.45]$$
+			- $$\vec{ab}=[1.03, 38.42]$$
+			- $$\vec{ab}=[38.43, 88.46^\circ]$$
+	- b) After what time will the ships be 160 nautical miles apart? 
+		- $$t=\frac{d}{v}$$
+		- $$t=\frac{160}{38.43}$$
+		- $$t=4.16\text{ hours}$$
+	- c) What will the bearing of B relative to A at this point
+		- $$88.46+180=268.46$$
+- 2. A 200m wide river flows due east at a uniform speed of 2m/s. A boat with a speed 8m/s relative to the water leaves the south bank pointed in a direction 30 west of north. What are the 
+	- a) Magnitude and Direction of the boats velocity relative to the ground?
+		- Variables
+			- $bVw=[8, 120^\circ]$
+			- $bVw=[-4.00, 6.93]$
+			- $wVg=[2, 0^\circ]$
+			- $wVg=[2, 0]$
+		- Equations
+			- $$bVg=bVw+wVg$$
+			- $$bVg=[-4.00, 6.93]+[2, 0]$$
+			- $$bVg=[-2.00, 6.93]$$
+			- $$bVg=[7.21, 106.09]$$
+	- b) Direction of the boats velocity relative to the ground
+	- c) How long does the boat take to cross the river?
+- 3. Ship A is located 4 km north and 2.5 km east of ship B. Ship A has a velocity of 22km/h toward the south and the ship B has a velocity of 40km/h in a direction 37 north of east
+	- a) What is the velocity of A relative to B
+		- $$\vec{A}-\vec{B}=\vec{AB}$$
+		- $$[0, -22]-[40\cos 37, 40\sin 37]$$
+		- $$[0, -22]-[31.94, 24.07]$$
+		- $$[-31.94, -46.07]$$
+	- b) Write an expression (in terms of i and j) for the position of A relative to B as a function of t, where t=0 when the ships are in the positions described above
+		- $$r = (4 - -46.07t)j + (2.5 - 31.94t)i$$
+	- c) At what time is the separation between the ships the least. 
+		- $$\Delta d^2=(4 - 46.07t)^2+(2.5 - 31.94t)^2$$
+		- $$\frac{\Delta d^2}{dt}=\frac{d}{dt} (4 - 46.07t)^2+(2.5 - 31.94t)^2$$
+		- $$=2(2.5−31.94t)(−31.94)+2(4−46.07t)(−46.07)$$
+		- $$0=−159.7(2.5−31.94t)−184.28(4−46.07t)$$
+		- $$13589.58t=1136.37$$
+		- $$t≈0.084 hours=5.04 minutes$$
+	- d) What is the least separation
+		- $$d=\sqrt{ (4 - 46.07(0.084))^2+(2.5 - 31.94(0.084))^2 }$$
+		- $$d=\sqrt{ 0.0511 }$$
+		- $$d≈0.226 km=226 m$$
+- 4. A 200m wide river has a uniform flow sped of 1.1 m/s through a jungle and toward the east. An explorer wishes to leave a small clearing on the south bank and cross the river in a powerboat that moves at a constant speed of 4m/s with respect to the water. There is a clearing on the north bank 82m upstream from a point directly opposite the clearing on the south bank.
+	- a) In what direction must the boat be pointed in order to travel in a straight line and land in the clearing on the north bank?
+	- b) How long will the boat take to cross the river and land in the clearing?
