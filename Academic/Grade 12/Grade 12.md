@@ -1,0 +1,174 @@
+---
+lastSync: Thu Sep 18 2025 22:41:16 GMT-0400 (Eastern Daylight Time)
+---
+%% Begin Waypoint %%
+- **Semester 1**
+	- **[[SBI4U0]]**
+		- **Unit 1 - Biochemistry**
+			- [[1.0 Intro]]
+			- [[1.1 Chemistry of Carbon]]
+			- [[1.2 Carbohydrates]]
+			- [[1.3 Lipids]]
+			- [[1.4 Proteins]]
+			- [[1.5 Nucleic Acids]]
+		- **Unit 2 - Metabolism**
+			- [[2.0 Enzymes]]
+			- [[2.1 The Cell Membrane]]
+			- [[2.2 Cell Parts]]
+			- [[2.3 ATP]]
+			- [[2.4 Redox Reactions]]
+			- [[2.5 Glycolysis]]
+			- [[2.6 Pyruvate Oxidation and The Krebs Cycle]]
+			- [[2.7 Electron Transport Chain]]
+			- [[2.8 Alternate Fuel Sources and Feedback Inhibition]]
+		- **Unit 3 - Homeostasis**
+			- [[3.0 Thermoregulation]]
+			- [[3.1 Endocrine System]]
+			- [[3.2 Blood Glucose Regulation]]
+			- [[3.3 Kidneys and Nephrons]]
+			- [[3.4 Nervous System]]
+		- **Unit 4 - Molecular Genetics**
+			- [[4.1 DNA replication]]
+			- [[4.2 Transcription]]
+			- [[4.3 Mutations]]
+			- [[4.4 Prokaryotic Gene Control]]
+			- [[4.5 Eukaryotic Gene Control]]
+			- [[4.6 Viruses]]
+			- [[4.7 Gene Editing]]
+			- [[4.8 Gene Sorting and Copying]]
+			- [[4.9 Sanger Sequencing]]
+	- **[[SCH4U1]]**
+		- [[1.0 Organic Chemistry]]
+		- [[1.1 Properties of Alkanes]]
+		- [[2.0 Structures and Properties]]
+		- [[3.0 Energy Changes and Rate of Reaction]]
+		- [[4.0 Chemical system and Equilibrium]]
+		- [[5.0 Electrochemistry]]
+		- [[Emission Spectra and Bohr Model]]
+		- [[Lewis Structures]]
+		- [[oxidation and reduction]]
+		- [[Polymerization]]
+		- [[Quantum Mechanical Theory]]
+		- [[rate of reaction]]
+		- [[Specific Heat Capacity]]
+		- **Unit 1 - Organic Chemistry**
+		- [[VSEPR Structure]]
+- **Semester 2**
+	- **[[ENG4U0]]**
+		- **Literary Lenses**
+			- [[Colonialism]]
+			- [[Formalism]]
+			- [[Jungism]]
+			- [[Literature of Witness]]
+		- **Satire**
+			- [[Satire Intro]]
+			- [[Satire Is You]]
+		- **Untitled**
+			- [[Does social media make people  happier]]
+			- [[Handmaids Tale Close Read]]
+			- [[HANDMAIDSTALE]]
+			- [[The Handmaids Tale Introduction]]
+			- [[The value of falling out of love]]
+	- **ICS4U0**
+	- **[[MDM4U1]]**
+		- **Unit 1**
+			- [[1.1 Introduction to Probability]]
+			- [[1.2 Introduction to Probability]]
+			- [[1.4 Homework]]
+			- [[1.5 Dependent and Independent Events]]
+		- **Unit 2**
+			- [[2.0 Unit Review]]
+			- [[2.2 Fundamental Counting Principle]]
+			- [[2.3 Permutations and Factorials]]
+			- [[2.4 The Rule of Sum]]
+			- [[2.5 Probability Problems Using Permutations]]
+		- **Unit 3**
+			- [[3.0]]
+			- [[3.1 Permutations of Non-ordered Elements]]
+			- [[3.2 Combinations]]
+			- [[3.3 Problem Solving with Combinations]]
+			- [[3.4 Pascals Triangle]]
+			- [[3.5 Binomial Expansion Using Pascals Triangle]]
+			- [[3.5 Probabilities Using Combinations]]
+			- [[3.6 Unit Review]]
+		- **Unit 4**
+			- [[4.1 Probability Distribution]]
+			- [[4.2 Uniform Distribution]]
+			- [[4.3 Binomial Distribution]]
+			- [[4.4 Hypergeometric Distributions]]
+			- [[4.5 Comparing and Selecting Discrete Probability Distributions]]
+		- **Unit 5**
+			- [[5.2 Principles of Data Collection]]
+			- [[5.3 Collecting Data]]
+			- [[5.5 Bias]]
+		- **Unit 6**
+			- [[6.1 One Variable Data Analysis]]
+			- [[6.2 Measures of Spread]]
+			- [[6.3 Standard Deviation]]
+			- [[6.4 Interpreting Statistical Summaries]]
+		- **Unit 7**
+			- [[7.2 and 7.3 Normal Distribution]]
+		- **Unit 8**
+			- [[8.1 Lines of Best Fit]]
+			- [[8.2 Cause and Effect]]
+			- [[8.4 Uses and Misuses of Data]]
+	- **[[SPH4U0]]**
+		- **Unit 0**
+		- **Unit 1**
+			- [[1.0 Problem Sets]]
+			- [[1.1 Day 1 Questions]]
+			- [[1.2 Big 5 Equations]]
+			- [[1.3 Problems]]
+		- **Unit 2**
+			- [[2.0 Problem Set]]
+			- [[2.1 Vector Review]]
+			- [[2.2 Vectors]]
+			- [[2.3 Projectile Motion]]
+			- [[2.4 Uniform Circular Motion]]
+			- [[2D Motion Problems]]
+		- **Unit 3**
+			- [[1.0 Forces Proof]]
+			- [[1.0 Review]]
+			- [[1.1 Forces Intro]]
+			- [[1.2 Forces and pullys]]
+			- [[1.3 Forces]]
+			- [[1.4 Rotational Force]]
+			- [[1.4]]
+			- [[1.7 Universal Gravitation]]
+			- [[Centripetal Force 1]]
+			- [[Centripetal Force]]
+			- [[Personal/Untitled]]
+		- **Unit 4**
+			- [[4.1]]
+			- [[4.2]]
+			- [[4.3]]
+			- [[4.4]]
+			- [[4.6]]
+			- [[5.5]]
+			- [[Personal/Untitled]]
+		- **Unit 4 1**
+		- **Unit 5**
+			- [[5.1]]
+			- [[5.2]]
+			- [[5.3]]
+			- [[5.4]]
+			- [[5.5]]
+			- [[5.6]]
+			- [[5.7]]
+			- [[5.8]]
+			- [[5.9]]
+			- [[5.10]]
+		- **Unit 5 1**
+		- **Unit 6**
+			- [[6.1]]
+		- **Unit 7**
+			- [[7.1]]
+			- [[7.2 Review]]
+			- [[7.3]]
+		- **Unit 8**
+			- [[Culminating]]
+			- [[Exam Review]]
+			- [[Movie Assingment]]
+		- **Untitled**
+
+%% End Waypoint %%
