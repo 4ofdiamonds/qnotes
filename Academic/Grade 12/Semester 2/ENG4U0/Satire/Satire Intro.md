@@ -1,0 +1,79 @@
+---
+lastSync: Thu Feb 20 2025 15:40:18 GMT-0500 (Eastern Standard Time)
+---
+## Satire
+- What is satire?
+	- It is an art form that uses different elements
+		- humor
+		- irony
+		- exaggeration
+		- ridicule
+	- to criticize
+		- vices
+		- follies
+		- abuses
+		- shortcomings 
+	- in hopes of shaming individuals or corporation's or society itself into improvement or reform 
+- How is satire done?
+	- The purpose of satires is constructive social criticism by attracting attention to an issue
+	- Writers will use fictional characters which stand for real people to expose and condemn their corruption.
+- Satire and the law:
+	- in the united states, satirists attack individuals only at risk of severe financial loss to themselves and their publisher
+	- in totalitarianism it can result in death
+	- under extreme conditions, satire against the reigning order is out of question
+## Types of Satire
+- Horatian
+	- Gentle and light hearted
+	- Encourages moral improvement
+- Juvenalian
+	- Darker and more biting in tone
+	- Utilizes anger to create attention
+- Menippean
+	- Targets beliefs and moral attitudes
+		- Arrogance, pride, racism
+	- mocks a range of ideas in a variety of tones
+	- general about issues that are present throughout humanity and not specific parts of society
+	- non menippean is against certain sociatal issues
+- Horatian<----->Juvenalian
+	- light hearted<----->angry
+- Menippean<------>Non Menippean
+	- Moral beliefs<------>societal issues
+## Types of satirists
+- Optimist
+	- likes people and are rather blinding and foolish
+	- tells truth with a smile
+	- cures people of their ignorance
+	- writes in order to heal
+	- uses Horatian satire
+- Pessimist
+	- loves individuals
+	- hates human kind
+	- aim is to wound, punish and destroy
+	- uses Juvenalian satire
+## Common Satirical devices
+- Exaggeration
+	- Uses to enlarge, increase or represent something beyond normal bounds
+	- Tries to make the topic seem ridiculous and its faults can be seen
+- Understatement
+	- The opposite of exaggeration of about something serious
+	- Makes less of a deal of something than it is
+- Incongruity
+	- To present things that are out of place relative to their surroundings
+- Irony
+	- Things that are opposite of what they seem
+	- Sometimes something small and trivial is made to seem important or serious
+- Reversal/Inversion
+	- To present the opposite of the normal order
+- Parody
+	- An imitation of a particular style or genre with deliberate exaggeration for comedic affect
+- Caricature
+	- Exaggeration of physical features that represent certain ideas and topics of criticism
+- Forms Satirists use
+	- Fantasy
+		- Setting is an imaginary world
+	- Mock Heroic
+		- Takes a very simple thing and dramatizing it into a exaggerated epic battle
+	- Formal Proposal
+		- Prepare a highly serious scenario and reverses it to be totally unreasonable and exaggerated
+	- Praise/Blame
+		- Take something that is bad and praise it without boundary, or take something good and cut it to shreds
