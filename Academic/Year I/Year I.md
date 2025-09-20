@@ -1,5 +1,5 @@
 ---
-lastSync: Thu Sep 18 2025 23:40:06 GMT-0400 (Eastern Daylight Time)
+lastSync: Sat Sep 20 2025 16:29:32 GMT-0400 (Eastern Daylight Time)
 dg-publish: true
 ---
 %% Begin Waypoint %%
@@ -15,6 +15,7 @@ dg-publish: true
 				- [[M4 - Embryology and Development Part 2]]
 				- [[M5 - Embryology and Development Part 3]]
 				- [[M6 - Embryology and Development Part 4]]
+				- [[M7 - Epithelial Tissues]]
 	- **[[Biology 1A03]]**
 		- **Unit 0 - About the Course**
 			- **Lectures**
@@ -55,6 +56,9 @@ dg-publish: true
 				- [[3.1 Derivative of polynomials and the exponential]]
 				- [[3.2 - The product and quotient rule]]
 				- [[3.3 - Derivative of trigonometric functions]]
+				- [[3.4 - The chain rule]]
+		- **Unit 4 -**
+			- [[4.8 - Newtons Method]]
 	- **[[Physics 1C03]]**
 		- **Unit 1 - 1D Kinematics**
 			- **Labs**
