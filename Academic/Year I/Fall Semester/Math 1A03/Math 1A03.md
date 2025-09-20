@@ -15,8 +15,6 @@ lastSync: Thu Sep 18 2025 22:33:53 GMT-0400 (Eastern Daylight Time)
 - [ ] Math Assignment 10 📅 2025-12-4
 
 %% Begin Landmark %%
-- **Unit 0 - Organization**
-	- [[Math 1A03 Tasks]]
 - **Unit 1 - Review**
 	- **Lectures**
 		- [[1.0 - Trigonometry]]
@@ -35,5 +33,8 @@ lastSync: Thu Sep 18 2025 22:33:53 GMT-0400 (Eastern Daylight Time)
 		- [[3.1 Derivative of polynomials and the exponential]]
 		- [[3.2 - The product and quotient rule]]
 		- [[3.3 - Derivative of trigonometric functions]]
+		- [[3.4 - The chain rule]]
+- **Unit 4 -**
+	- [[4.8 - Newtons Method]]
 
 %% End Landmark %%
