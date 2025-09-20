@@ -1,6 +1,6 @@
 ---
 
-lastSync: Thu Sep 18 2025 23:35:35 GMT-0400 (Eastern Daylight Time)
+lastSync: Fri Sep 19 2025 00:50:37 GMT-0400 (Eastern Daylight Time)
 
 ---
 # M6 - Embryology and Development Part 4
@@ -88,3 +88,15 @@ lastSync: Thu Sep 18 2025 23:35:35 GMT-0400 (Eastern Daylight Time)
 ![[Pasted image 20250917024404.png]]
 
 # Formation of the Lungs
+## Respiratory System
+- **Tracheal Bud**: The lung bud forms from a midline evagination of the gut tube in the foregut region
+	- The gut tube behind the tracheal bud will turn into the pharynx and the other part of the gut tube will become esophagus
+- **Bronchial Buds**: The lung bud will form form branches which will continue to form their own branches in a fractal like projection. This is the branching point between the right and left lung
+![[Pasted image 20250919004247.png]]
+- The branching will continue like this for **17 generations** until birth but the lungs continue developing up to **24 generations** in adults
+	- Each generation is indicated by a **primary, secondary, tertiary**... etc
+	- Primary: 5th week
+	- Secondary: 6th week
+	- Tertiary: 7th week
+- The right lung will have 3 lobes (Superior, Middle, Inferior) and the left lung will have 2 lobes (Superior, Inferior). The left lung has less in order to make space for the heart
+![[Pasted image 20250919004946.png]]
