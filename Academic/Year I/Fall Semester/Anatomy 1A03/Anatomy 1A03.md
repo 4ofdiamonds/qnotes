@@ -71,5 +71,6 @@ lastSync: Thu Sep 18 2025 22:31:56 GMT-0400 (Eastern Daylight Time)
 		- [[M4 - Embryology and Development Part 2]]
 		- [[M5 - Embryology and Development Part 3]]
 		- [[M6 - Embryology and Development Part 4]]
+		- [[M7 - Epithelial Tissues]]
 
 %% End Landmark %%
