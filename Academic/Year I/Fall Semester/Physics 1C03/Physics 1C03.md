@@ -1,12 +1,13 @@
 ---
-lastSync: Thu Sep 18 2025 22:39:13 GMT-0400 (Eastern Daylight Time)
+lastSync: Tue Sep 23 2025 01:02:50 GMT-0400 (Eastern Daylight Time)
 ---
 #todo
 - [x] Physics Primer 📅 2025-09-08 ✅ 2025-09-08
 - [x] Physics Crowd Mark Calculus 📅 2025-09-10 ✅ 2025-09-13
 - [x] Physics Kinematics Homework 📅 2025-09-15 ✅ 2025-09-13
 - [x] Physics Crowd Mark Momentum 📅 2025-09-17 ✅ 2025-09-17
-- [ ] Physics Lab 2 📅 2025-09-22
+- [x] Physics Lab 2 📅 2025-09-22 ✅ 2025-09-23
+- [ ] Physics Momentum Homework 📅 2025-09-24
 
 %% Begin Landmark %%
 - **Unit 1 - 1D Kinematics**
@@ -23,5 +24,8 @@ lastSync: Thu Sep 18 2025 22:39:13 GMT-0400 (Eastern Daylight Time)
 		- [[U2L1 - Momentum]]
 		- [[U2L2 - Momentum]]
 		- [[U2L3 - Momentum]]
+- **Unit 3 - Energy**
+	- **Lectures**
+		- [[U3L1 - Collisions and Energy]]
 
 %% End Landmark %%
