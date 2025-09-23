@@ -1,5 +1,5 @@
 ---
-lastSync: Thu Sep 18 2025 22:31:56 GMT-0400 (Eastern Daylight Time)
+lastSync: Sat Sep 20 2025 16:30:34 GMT-0400 (Eastern Daylight Time)
 ---
 #todo
 # Miscellaneous
@@ -13,8 +13,8 @@ lastSync: Thu Sep 18 2025 22:31:56 GMT-0400 (Eastern Daylight Time)
 - [x] Kin Prelab 1 📅 2025-09-14
 - [x] Kin Case Study 1 📅 2025-09-17 ✅ 2025-09-16
 - [x] Kin Module 5 📅 2025-09-17 ✅ 2025-09-18
-- [ ] Kin Module 6 📅 2025-09-17
-- [ ] Kin Module 7 📅 2025-09-17
+- [x] Kin Module 6 📅 2025-09-17 ✅ 2025-09-20
+- [x] Kin Module 7 📅 2025-09-17 ✅ 2025-09-20
 # Week Sept 22
 - [ ] Kin Module 8 📅 2025-09-24
 - [ ] Kin Module 9 📅 2025-09-24
