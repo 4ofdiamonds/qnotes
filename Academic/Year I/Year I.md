@@ -1,5 +1,5 @@
 ---
-lastSync: Sat Sep 20 2025 16:29:32 GMT-0400 (Eastern Daylight Time)
+lastSync: Tue Sep 23 2025 01:09:59 GMT-0400 (Eastern Daylight Time)
 dg-publish: true
 ---
 %% Begin Waypoint %%
@@ -30,13 +30,16 @@ dg-publish: true
 				- [[T1M2 - Organelles and Energy]]
 				- [[T1M3 - Proteins]]
 				- [[T1M4 - Nucleic Acids]]
-			- **Tutorial**
+		- **Unit 2 - From Gene to Protein**
+			- **Modules**
+				- [[T2M1 - Transcription]]
 	- **[[Foundations 1K03]]**
 		- **Unit 1 - History and Research**
 			- **Lectures**
 
 			- **Tutorials**
 				- [[U1T1 - Referencing]]
+				- [[U1T3]]
 	- **[[Math 1A03]]**
 		- **Unit 1 - Review**
 			- **Lectures**
@@ -57,6 +60,8 @@ dg-publish: true
 				- [[3.2 - The product and quotient rule]]
 				- [[3.3 - Derivative of trigonometric functions]]
 				- [[3.4 - The chain rule]]
+			- **Tutorials**
+				- [[U3T1]]
 		- **Unit 4 -**
 			- [[4.8 - Newtons Method]]
 	- **[[Physics 1C03]]**
@@ -74,5 +79,8 @@ dg-publish: true
 				- [[U2L1 - Momentum]]
 				- [[U2L2 - Momentum]]
 				- [[U2L3 - Momentum]]
+		- **Unit 3 - Energy**
+			- **Lectures**
+				- [[U3L1 - Collisions and Energy]]
 
 %% End Waypoint %%
