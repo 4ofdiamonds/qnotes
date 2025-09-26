@@ -1,5 +1,5 @@
 ---
-lastSync: Tue Sep 23 2025 01:09:59 GMT-0400 (Eastern Daylight Time)
+lastSync: Fri Sep 26 2025 12:37:55 GMT-0400 (Eastern Daylight Time)
 dg-publish: true
 ---
 %% Begin Waypoint %%
@@ -9,6 +9,7 @@ dg-publish: true
 			- **Case Studies**
 				- [[CS1]]
 			- **Modules**
+				- [[M]]
 				- [[M1 - Terminology and the Body Plan]]
 				- [[M2 - Homeostasis]]
 				- [[M3 - Embryology and Development]]
@@ -16,6 +17,9 @@ dg-publish: true
 				- [[M5 - Embryology and Development Part 3]]
 				- [[M6 - Embryology and Development Part 4]]
 				- [[M7 - Epithelial Tissues]]
+				- [[M8 Connective Tissues]]
+				- [[M9 Functional Organization of the Nervous Tissue]]
+				- [[M10 - Cells of the Nervous System]]
 	- **[[Biology 1A03]]**
 		- **Unit 0 - About the Course**
 			- **Lectures**
@@ -31,8 +35,12 @@ dg-publish: true
 				- [[T1M3 - Proteins]]
 				- [[T1M4 - Nucleic Acids]]
 		- **Unit 2 - From Gene to Protein**
+			- **Lectures**
+				- [[T2L1R - From Gene to Protiein]]
+				- [[T2L2A - From Gene to Protein]]
 			- **Modules**
 				- [[T2M1 - Transcription]]
+				- [[T2M2 - The Genetic Code]]
 	- **[[Foundations 1K03]]**
 		- **Unit 1 - History and Research**
 			- **Lectures**
@@ -60,6 +68,9 @@ dg-publish: true
 				- [[3.2 - The product and quotient rule]]
 				- [[3.3 - Derivative of trigonometric functions]]
 				- [[3.4 - The chain rule]]
+				- [[3.5 Implicit differentiation]]
+				- [[3.6 Derivative of the logarithm]]
+				- [[3.11]]
 			- **Tutorials**
 				- [[U3T1]]
 		- **Unit 4 -**
@@ -82,5 +93,7 @@ dg-publish: true
 		- **Unit 3 - Energy**
 			- **Lectures**
 				- [[U3L1 - Collisions and Energy]]
+				- [[U3L2 - Collisions and Energy]]
+				- [[U3L3 - Relative Motion]]
 
 %% End Waypoint %%
