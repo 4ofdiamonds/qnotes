@@ -1,5 +1,5 @@
 ---
-lastSync: Tue Sep 23 2025 01:02:26 GMT-0400 (Eastern Daylight Time)
+lastSync: Fri Sep 26 2025 13:17:35 GMT-0400 (Eastern Daylight Time)
 ---
 #todo
 # Week Sept 8
@@ -10,9 +10,9 @@ lastSync: Tue Sep 23 2025 01:02:26 GMT-0400 (Eastern Daylight Time)
 - [x] Bio T1M4 📅 2025-09-16 ✅ 2025-09-16
 # Week Sept 22
 - [x] Bio Prelab 1 📅 2025-09-22 ✅ 2025-09-23
-- [ ] Bio T2M1 📅 2025-09-23
-- [ ] Bio T2M2 📅 2025-09-23
-- [ ] Bio Postlab 1 📅 2025-09-25
+- [x] Bio T2M1 📅 2025-09-23 ✅ 2025-09-26
+- [x] Bio T2M2 📅 2025-09-23 ✅ 2025-09-26
+- [x] Bio Postlab 1 📅 2025-09-25 ✅ 2025-09-26
 # Week Sept 29
 - [ ] Bio T2M3 📅 2025-09-30
 - [ ] Bio T2M4 📅 2025-09-30
@@ -59,7 +59,11 @@ lastSync: Tue Sep 23 2025 01:02:26 GMT-0400 (Eastern Daylight Time)
 		- [[T1M3 - Proteins]]
 		- [[T1M4 - Nucleic Acids]]
 - **Unit 2 - From Gene to Protein**
+	- **Lectures**
+		- [[T2L1R - From Gene to Protiein]]
+		- [[T2L2A - From Gene to Protein]]
 	- **Modules**
 		- [[T2M1 - Transcription]]
+		- [[T2M2 - The Genetic Code]]
 
 %% End Landmark %%
