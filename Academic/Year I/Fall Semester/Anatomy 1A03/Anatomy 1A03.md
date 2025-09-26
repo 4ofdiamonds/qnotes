@@ -16,9 +16,9 @@ lastSync: Sat Sep 20 2025 16:30:34 GMT-0400 (Eastern Daylight Time)
 - [x] Kin Module 6 📅 2025-09-17 ✅ 2025-09-20
 - [x] Kin Module 7 📅 2025-09-17 ✅ 2025-09-20
 # Week Sept 22
-- [ ] Kin Module 8 📅 2025-09-24
-- [ ] Kin Module 9 📅 2025-09-24
-- [ ] Kin Module 10 📅 2025-09-24
+- [x] Kin Module 8 📅 2025-09-24 ✅ 2025-09-26
+- [x] Kin Module 9 📅 2025-09-24 ✅ 2025-09-26
+- [x] Kin Module 10 📅 2025-09-24 ✅ 2025-09-26
 # Week Sept 29
 - [ ] Kin Case Study 2 📅 2025-10-1
 - [ ] Kin Module 11 📅 2025-10-1
@@ -65,6 +65,7 @@ lastSync: Sat Sep 20 2025 16:30:34 GMT-0400 (Eastern Daylight Time)
 	- **Case Studies**
 		- [[CS1]]
 	- **Modules**
+		- [[M]]
 		- [[M1 - Terminology and the Body Plan]]
 		- [[M2 - Homeostasis]]
 		- [[M3 - Embryology and Development]]
@@ -72,5 +73,8 @@ lastSync: Sat Sep 20 2025 16:30:34 GMT-0400 (Eastern Daylight Time)
 		- [[M5 - Embryology and Development Part 3]]
 		- [[M6 - Embryology and Development Part 4]]
 		- [[M7 - Epithelial Tissues]]
+		- [[M8 Connective Tissues]]
+		- [[M9 Functional Organization of the Nervous Tissue]]
+		- [[M10 - Cells of the Nervous System]]
 
 %% End Landmark %%
