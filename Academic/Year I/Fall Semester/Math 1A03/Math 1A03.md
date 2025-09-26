@@ -34,6 +34,9 @@ lastSync: Thu Sep 18 2025 22:33:53 GMT-0400 (Eastern Daylight Time)
 		- [[3.2 - The product and quotient rule]]
 		- [[3.3 - Derivative of trigonometric functions]]
 		- [[3.4 - The chain rule]]
+		- [[3.5 Implicit differentiation]]
+		- [[3.6 Derivative of the logarithm]]
+		- [[3.11]]
 	- **Tutorials**
 		- [[U3T1]]
 - **Unit 4 -**
