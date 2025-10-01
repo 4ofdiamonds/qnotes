@@ -1,11 +1,11 @@
 ---
-lastSync: Thu Sep 18 2025 22:33:53 GMT-0400 (Eastern Daylight Time)
+lastSync: Fri Sep 26 2025 23:39:29 GMT-0400 (Eastern Daylight Time)
 ---
 #todo
 - [x] Math Assignment 0 📅 2025-09-12 ✅ 2025-09-14
 - [x] Math Assignment 1 📅 2025-09-12 ✅ 2025-09-14
 - [x] Math Assignment 2 📅 2025-09-19 ✅ 2025-09-18
-- [ ] Math Assignment 3 📅 2025-09-26
+- [x] Math Assignment 3 📅 2025-09-26 ✅ 2025-09-26
 - [ ] Math Assignment 4 📅 2025-10-3
 - [ ] Math Assignment 5 📅 2025-10-24
 - [ ] Math Assignment 6 📅 2025-10-31
@@ -39,6 +39,7 @@ lastSync: Thu Sep 18 2025 22:33:53 GMT-0400 (Eastern Daylight Time)
 		- [[3.11]]
 	- **Tutorials**
 		- [[U3T1]]
+		- [[U3T2]]
 - **Unit 4 -**
 	- [[4.8 - Newtons Method]]
 
