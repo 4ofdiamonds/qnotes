@@ -1,5 +1,5 @@
 ---
-lastSync: Sat Sep 20 2025 16:30:34 GMT-0400 (Eastern Daylight Time)
+lastSync: Mon Sep 29 2025 21:28:55 GMT-0400 (Eastern Daylight Time)
 ---
 #todo
 # Miscellaneous
@@ -16,19 +16,19 @@ lastSync: Sat Sep 20 2025 16:30:34 GMT-0400 (Eastern Daylight Time)
 - [x] Kin Module 6 📅 2025-09-17 ✅ 2025-09-20
 - [x] Kin Module 7 📅 2025-09-17 ✅ 2025-09-20
 # Week Sept 22
-- [x] Kin Module 8 📅 2025-09-24 ✅ 2025-09-26
-- [x] Kin Module 9 📅 2025-09-24 ✅ 2025-09-26
+- [x] Kin Module 8 📅 2025-09-24 ✅ 2025-09-24
+- [x] Kin Module 9 📅 2025-09-24 ✅ 2025-09-24
 - [x] Kin Module 10 📅 2025-09-24 ✅ 2025-09-26
 # Week Sept 29
-- [ ] Kin Case Study 2 📅 2025-10-1
-- [ ] Kin Module 11 📅 2025-10-1
-- [ ] Kin Module 12 📅 2025-10-1
-- [ ] Kin Module 13 📅 2025-10-1
+- [ ] Kin Case Study 2 📅 2025-10-01
+- [ ] Kin Module 11 📅 2025-10-01
+- [ ] Kin Module 12 📅 2025-10-01
+- [ ] Kin Module 13 📅 2025-10-01
 # Week Oct 6
-- [ ] Kin Prelab 2 📅 2025-10-6
-- [ ] Kin Module 14 📅 2025-10-8
-- [ ] Kin Module 15 📅 2025-10-8
-- [ ] Kin Module 16 📅 2025-10-8
+- [ ] Kin Prelab 2 📅 2025-10-06
+- [ ] Kin Module 14 📅 2025-10-08
+- [ ] Kin Module 15 📅 2025-10-08
+- [ ] Kin Module 16 📅 2025-10-08
 # Week Oct 20
 - [ ] Kin Case Study 3 📅 2025-10-22
 # Week Oct 27
@@ -40,8 +40,8 @@ lastSync: Sat Sep 20 2025 16:30:34 GMT-0400 (Eastern Daylight Time)
 - [ ] Kin Module 21 📅 2025-10-29
 - [ ] Kin Module 22 📅 2025-10-29
 # Week Nov 3
-- [ ] Kin Case Study 4 📅 2025-11-5
-- [ ] Kin Module 23 📅 2025-11-5
+- [ ] Kin Case Study 4 📅 2025-11-05
+- [ ] Kin Module 23 📅 2025-11-05
 - [ ] Kin Module 24 📅 2025-11-5
 - [ ] Kin Module 25 📅 2025-11-5
 # Week Nov 10
@@ -65,7 +65,6 @@ lastSync: Sat Sep 20 2025 16:30:34 GMT-0400 (Eastern Daylight Time)
 	- **Case Studies**
 		- [[CS1]]
 	- **Modules**
-		- [[M]]
 		- [[M1 - Terminology and the Body Plan]]
 		- [[M2 - Homeostasis]]
 		- [[M3 - Embryology and Development]]
