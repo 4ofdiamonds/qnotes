@@ -1,5 +1,5 @@
 ---
-lastSync: Fri Sep 26 2025 12:37:55 GMT-0400 (Eastern Daylight Time)
+lastSync: Wed Oct 01 2025 13:49:45 GMT-0400 (Eastern Daylight Time)
 dg-publish: true
 ---
 %% Begin Waypoint %%
@@ -9,7 +9,6 @@ dg-publish: true
 			- **Case Studies**
 				- [[CS1]]
 			- **Modules**
-				- [[M]]
 				- [[M1 - Terminology and the Body Plan]]
 				- [[M2 - Homeostasis]]
 				- [[M3 - Embryology and Development]]
@@ -38,16 +37,13 @@ dg-publish: true
 			- **Lectures**
 				- [[T2L1R - From Gene to Protiein]]
 				- [[T2L2A - From Gene to Protein]]
+				- [[T2L4A - Translation and The Complex Proteome]]
 			- **Modules**
 				- [[T2M1 - Transcription]]
 				- [[T2M2 - The Genetic Code]]
+				- [[T2M3 - Translation]]
+				- [[T2M4 - The complex proteome]]
 	- **[[Foundations 1K03]]**
-		- **Unit 1 - History and Research**
-			- **Lectures**
-
-			- **Tutorials**
-				- [[U1T1 - Referencing]]
-				- [[U1T3]]
 	- **[[Math 1A03]]**
 		- **Unit 1 - Review**
 			- **Lectures**
@@ -73,6 +69,7 @@ dg-publish: true
 				- [[3.11]]
 			- **Tutorials**
 				- [[U3T1]]
+				- [[U3T2]]
 		- **Unit 4 -**
 			- [[4.8 - Newtons Method]]
 	- **[[Physics 1C03]]**
@@ -95,5 +92,7 @@ dg-publish: true
 				- [[U3L1 - Collisions and Energy]]
 				- [[U3L2 - Collisions and Energy]]
 				- [[U3L3 - Relative Motion]]
+		- **Unit 4 - Relative Velocity**
+			- [[Untitled]]
 
 %% End Waypoint %%
