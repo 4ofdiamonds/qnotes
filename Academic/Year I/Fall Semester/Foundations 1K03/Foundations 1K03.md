@@ -1,9 +1,11 @@
 ---
-lastSync: Thu Sep 25 2025 11:26:35 GMT-0400 (Eastern Daylight Time)
+lastSync: Mon Oct 06 2025 22:34:05 GMT-0400 (Eastern Daylight Time)
 ---
 #todo 
-- [ ] Foundations Reflection 1 📅 2025-10-7
-- [ ] Foundations Q v Q 📅 2025-10-8
+- [x] Foundations Kritik Evaluation 📅 2025-10-01 ✅ 2025-10-06
+- [x] Foundations Kritik Feddback 📅 2025-10-03 ✅ 2025-10-06
+- [ ] Foundations Reflection 1 📅 2025-10-07
+- [ ] Foundations Q v Q 📅 2025-10-08
 
 %% Begin Waypoint %%
 - **Unit 1 - History and Research**
@@ -13,6 +15,8 @@ lastSync: Thu Sep 25 2025 11:26:35 GMT-0400 (Eastern Daylight Time)
 		- [[U1T1 - Referencing]]
 		- [[U1T3]]
 - **Unit 2 - Biomechanics**
+	- **Lectures**
+		- [[Biomechanics]]
 	- **Tutorials**
 		- [[U2T1]]
 
