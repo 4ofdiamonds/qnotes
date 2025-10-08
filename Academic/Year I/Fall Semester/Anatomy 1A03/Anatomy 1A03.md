@@ -1,5 +1,5 @@
 ---
-lastSync: Mon Sep 29 2025 21:28:55 GMT-0400 (Eastern Daylight Time)
+lastSync: Sun Oct 05 2025 15:59:49 GMT-0400 (Eastern Daylight Time)
 ---
 #todo
 # Miscellaneous
@@ -20,12 +20,12 @@ lastSync: Mon Sep 29 2025 21:28:55 GMT-0400 (Eastern Daylight Time)
 - [x] Kin Module 9 📅 2025-09-24 ✅ 2025-09-24
 - [x] Kin Module 10 📅 2025-09-24 ✅ 2025-09-26
 # Week Sept 29
-- [ ] Kin Case Study 2 📅 2025-10-01
-- [ ] Kin Module 11 📅 2025-10-01
-- [ ] Kin Module 12 📅 2025-10-01
-- [ ] Kin Module 13 📅 2025-10-01
+- [x] Kin Case Study 2 📅 2025-10-01 ✅ 2025-10-02
+- [x] Kin Module 11 📅 2025-10-01 ✅ 2025-10-03
+- [x] Kin Module 12 📅 2025-10-01 ✅ 2025-10-03
+- [x] Kin Module 13 📅 2025-10-01 ✅ 2025-10-03
 # Week Oct 6
-- [ ] Kin Prelab 2 📅 2025-10-06
+- [x] Kin Prelab 2 📅 2025-10-06 ✅ 2025-10-05
 - [ ] Kin Module 14 📅 2025-10-08
 - [ ] Kin Module 15 📅 2025-10-08
 - [ ] Kin Module 16 📅 2025-10-08
@@ -42,8 +42,8 @@ lastSync: Mon Sep 29 2025 21:28:55 GMT-0400 (Eastern Daylight Time)
 # Week Nov 3
 - [ ] Kin Case Study 4 📅 2025-11-05
 - [ ] Kin Module 23 📅 2025-11-05
-- [ ] Kin Module 24 📅 2025-11-5
-- [ ] Kin Module 25 📅 2025-11-5
+- [ ] Kin Module 24 📅 2025-11-05
+- [ ] Kin Module 25 📅 2025-11-05
 # Week Nov 10
 - [ ] Kin Prelab 4 📅 2025-11-10
 - [ ] Kin Module 26 📅 2025-11-12
@@ -64,6 +64,8 @@ lastSync: Mon Sep 29 2025 21:28:55 GMT-0400 (Eastern Daylight Time)
 - **Unit 1 - Everything**
 	- **Case Studies**
 		- [[CS1]]
+		- [[CS2]]
+	- **Lectures**
 	- **Modules**
 		- [[M1 - Terminology and the Body Plan]]
 		- [[M2 - Homeostasis]]
@@ -75,5 +77,8 @@ lastSync: Mon Sep 29 2025 21:28:55 GMT-0400 (Eastern Daylight Time)
 		- [[M8 Connective Tissues]]
 		- [[M9 Functional Organization of the Nervous Tissue]]
 		- [[M10 - Cells of the Nervous System]]
+		- [[M11 - Brain Overview & Protective Layers]]
+		- [[M12 - Brain Brainstem & Cerebellum]]
+		- [[M13 - Brain Diencephalon & Cerebrum]]
 
 %% End Landmark %%
