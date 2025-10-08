@@ -1,0 +1,25 @@
+---
+lastSync: Fri Oct 03 2025 15:17:58 GMT-0400 (Eastern Daylight Time)
+---
+- 1.1)
+	- a) $2.5\pm 0.325$
+	- b) $2.3 \pm 0.1$
+- 1.2) 
+	- a) The limits are 3.15 to 3.25, $3.2\pm 0.05$
+	- b) The limits are 3.2 to 3.3, $3.25\pm 0.05$
+	- c) $3.17\pm 0.005$, $3.175\pm 0.005$
+- 1.3) 
+	- a) The mass
+	- b) $y=\frac{1}{2}x$
+	- c) Uncertainty has to be the same as the measured value because we cant claim anything we dont know
+	- d) 
+		 - 1.1)
+			- a) $2.50\pm 0.03$
+			- b) $2.30 \pm 0.07$
+		- 1.2) 
+			- a) The limits are 3.15 to 3.25, $3.20\pm 0.03$
+			- b) The limits are 3.2 to 3.3, $3.25\pm 0.03$
+			- c) $3.170\pm 0.003$, $3.175\pm 0.003$
+- 1.4) 
+	- a) $44\pm 1U$
+	- b) $22.55\pm 0.05cm$
