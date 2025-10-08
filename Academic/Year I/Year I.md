@@ -1,5 +1,5 @@
 ---
-lastSync: Wed Oct 01 2025 13:49:45 GMT-0400 (Eastern Daylight Time)
+lastSync: Tue Oct 07 2025 15:46:38 GMT-0400 (Eastern Daylight Time)
 dg-publish: true
 ---
 %% Begin Waypoint %%
@@ -8,6 +8,7 @@ dg-publish: true
 		- **Unit 1 - Everything**
 			- **Case Studies**
 				- [[CS1]]
+				- [[CS2]]
 			- **Modules**
 				- [[M1 - Terminology and the Body Plan]]
 				- [[M2 - Homeostasis]]
@@ -19,6 +20,9 @@ dg-publish: true
 				- [[M8 Connective Tissues]]
 				- [[M9 Functional Organization of the Nervous Tissue]]
 				- [[M10 - Cells of the Nervous System]]
+				- [[M11 - Brain Overview & Protective Layers]]
+				- [[M12 - Brain Brainstem & Cerebellum]]
+				- [[M13 - Brain Diencephalon & Cerebrum]]
 	- **[[Biology 1A03]]**
 		- **Unit 0 - About the Course**
 			- **Lectures**
@@ -43,6 +47,12 @@ dg-publish: true
 				- [[T2M2 - The Genetic Code]]
 				- [[T2M3 - Translation]]
 				- [[T2M4 - The complex proteome]]
+		- **Unit 3 - Responding to the Enviornment**
+			- **Lectures**
+				- [[T3L1A - Responding to the environment]]
+			- **Modules**
+				- [[T3M1 - Modulating Transcription]]
+				- [[T3M2 - Prokaryotic Transcriptional Regulation]]
 	- **[[Foundations 1K03]]**
 	- **[[Math 1A03]]**
 		- **Unit 1 - Review**
@@ -66,12 +76,19 @@ dg-publish: true
 				- [[3.4 - The chain rule]]
 				- [[3.5 Implicit differentiation]]
 				- [[3.6 Derivative of the logarithm]]
-				- [[3.11]]
+				- [[3.11 - Hyperbolic Functions]]
 			- **Tutorials**
 				- [[U3T1]]
 				- [[U3T2]]
 		- **Unit 4 -**
-			- [[4.8 - Newtons Method]]
+		- **Unit 4 - Optimizations**
+			- **Lectures**
+				- [[4.1 - Maximum and Minimum Values]]
+				- [[4.2 - Mean value theorm]]
+				- [[4.3 - How derivatives shape the graph]]
+				- [[4.8 - Newtons Method]]
+			- **Tutorials**
+				- [[U4T1]]
 	- **[[Physics 1C03]]**
 		- **Unit 1 - 1D Kinematics**
 			- **Labs**
@@ -93,6 +110,11 @@ dg-publish: true
 				- [[U3L2 - Collisions and Energy]]
 				- [[U3L3 - Relative Motion]]
 		- **Unit 4 - Relative Velocity**
-			- [[Untitled]]
+			- **Labs**
+				- [[L5 - Uncertainty]]
+			- **Lectures**
+				- [[U4L1 - Relative Velocity]]
+				- [[U4L2 - Relative Velocity]]
+				- [[U4L3 - Relative Motion]]
 
 %% End Waypoint %%
