@@ -1,5 +1,5 @@
 ---
-lastSync: Wed Oct 01 2025 13:50:13 GMT-0400 (Eastern Daylight Time)
+lastSync: Sun Oct 05 2025 18:08:44 GMT-0400 (Eastern Daylight Time)
 ---
 #todo
 # Week Sept 8
@@ -17,8 +17,8 @@ lastSync: Wed Oct 01 2025 13:50:13 GMT-0400 (Eastern Daylight Time)
 - [x] Bio T2M3 📅 2025-09-30 ✅ 2025-10-01
 - [x] Bio T2M4 📅 2025-09-30 ✅ 2025-10-01
 # Week Oct 6
-- [ ] Bio T3M1 📅 2025-10-7
-- [ ] Bio T3M2 📅 2025-10-7
+- [x] Bio T3M1 📅 2025-10-07 ✅ 2025-10-05
+- [ ] Bio T3M2 📅 2025-10-07
 # Week Oct 20
 - [ ] Bio Prelab 2 📅 2025-10-20
 - [ ] Bio T3M3 📅 2025-10-21
@@ -28,10 +28,10 @@ lastSync: Wed Oct 01 2025 13:50:13 GMT-0400 (Eastern Daylight Time)
 - [ ] Bio T4M1 📅 2025-10-28
 - [ ] Bio T4M2 📅 2025-10-28
 # Week Nov 3
-- [ ] Bio Prelab 3 📅 2025-11-3
-- [ ] Bio T4M3 📅 2025-11-4
-- [ ] Bio T4M4 📅 2025-11-4
-- [ ] Bio Postlab 3 📅 2025-11-6
+- [ ] Bio Prelab 3 📅 2025-11-03
+- [ ] Bio T4M3 📅 2025-11-04
+- [ ] Bio T4M4 📅 2025-11-04
+- [ ] Bio Postlab 3 📅 2025-11-06
 # Week Nov 10
 - [ ] Bio T5M1 📅 2025-11-11
 - [ ] Bio T5M2 📅 2025-11-11
@@ -42,7 +42,7 @@ lastSync: Wed Oct 01 2025 13:50:13 GMT-0400 (Eastern Daylight Time)
 - [ ] Bio Postlab 4 📅 2025-11-20
 # Week Nov 24
 # Week Dec 1
-- [ ] Bio Final Lab Report 📅 2025-12-1
+- [ ] Bio Final Lab Report 📅 2025-12-01
 ---
 %% Begin Landmark %%
 - **Unit 0 - About the Course**
@@ -68,5 +68,11 @@ lastSync: Wed Oct 01 2025 13:50:13 GMT-0400 (Eastern Daylight Time)
 		- [[T2M2 - The Genetic Code]]
 		- [[T2M3 - Translation]]
 		- [[T2M4 - The complex proteome]]
+- **Unit 3 - Responding to the Enviornment**
+	- **Lectures**
+		- [[T3L1A - Responding to the environment]]
+	- **Modules**
+		- [[T3M1 - Modulating Transcription]]
+		- [[T3M2 - Prokaryotic Transcriptional Regulation]]
 
 %% End Landmark %%
