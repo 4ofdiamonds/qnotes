@@ -1,8 +1,7 @@
 ---
-lastSync: Fri Sep 19 2025 00:06:24 GMT-0400 (Eastern Daylight Time)
+lastSync: Wed Oct 08 2025 12:59:23 GMT-0400 (Eastern Daylight Time)
 ---
 # README
----
 Hello everyone these are my notes from Grade 12-First Year at McMaster (will be updated frequently)
 ## General
 - Some of the notes are not correctly translated over but most of it should all be readable
