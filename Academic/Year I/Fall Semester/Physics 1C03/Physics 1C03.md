@@ -18,7 +18,6 @@ lastSync: Tue Oct 07 2025 01:37:50 GMT-0400 (Eastern Daylight Time)
 	- **Labs**
 		- [[Lab 1 - Kinematics]]
 	- **Lectures**
-		- [[1.0 Physics for the Chemical and Physical Sciences]]
 		- [[U1L1 - 1D Kinematics]]
 		- [[U1L2 - Kinematics in 1D]]
 		- [[U1L3 - Kinematics in 1D]]
@@ -34,8 +33,11 @@ lastSync: Tue Oct 07 2025 01:37:50 GMT-0400 (Eastern Daylight Time)
 		- [[U3L2 - Collisions and Energy]]
 		- [[U3L3 - Relative Motion]]
 - **Unit 4 - Relative Velocity**
-	- [[L5 - Uncertainty]]
-	- [[U4L1 - Relative Velocity]]
-	- [[U4L2 - Relative Velocity]]
+	- **Labs**
+		- [[L5 - Uncertainty]]
+	- **Lectures**
+		- [[U4L1 - Relative Velocity]]
+		- [[U4L2 - Relative Velocity]]
+		- [[U4L3 - Relative Motion]]
 
 %% End Landmark %%
