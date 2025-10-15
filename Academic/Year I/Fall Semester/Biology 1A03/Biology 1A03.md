@@ -1,5 +1,5 @@
 ---
-lastSync: Sun Oct 05 2025 18:08:44 GMT-0400 (Eastern Daylight Time)
+lastSync: Wed Oct 08 2025 12:26:13 GMT-0400 (Eastern Daylight Time)
 ---
 #todo
 # Week Sept 8
@@ -18,7 +18,7 @@ lastSync: Sun Oct 05 2025 18:08:44 GMT-0400 (Eastern Daylight Time)
 - [x] Bio T2M4 📅 2025-09-30 ✅ 2025-10-01
 # Week Oct 6
 - [x] Bio T3M1 📅 2025-10-07 ✅ 2025-10-05
-- [ ] Bio T3M2 📅 2025-10-07
+- [x] Bio T3M2 📅 2025-10-07 ✅ 2025-10-08
 # Week Oct 20
 - [ ] Bio Prelab 2 📅 2025-10-20
 - [ ] Bio T3M3 📅 2025-10-21
@@ -47,6 +47,9 @@ lastSync: Sun Oct 05 2025 18:08:44 GMT-0400 (Eastern Daylight Time)
 %% Begin Landmark %%
 - **Unit 0 - About the Course**
 	- **Lectures**
+- **Unit 1 - About the Course**
+	- **Tutorials**
+		- [[T2]]
 - **Unit 1 - The Structure of the Cell**
 	- **Lectures**
 		- [[T1L1R - Cellular and Molecular Biology]]
@@ -71,6 +74,7 @@ lastSync: Sun Oct 05 2025 18:08:44 GMT-0400 (Eastern Daylight Time)
 - **Unit 3 - Responding to the Enviornment**
 	- **Lectures**
 		- [[T3L1A - Responding to the environment]]
+		- [[T3L2A - Managing lactose intolerance]]
 	- **Modules**
 		- [[T3M1 - Modulating Transcription]]
 		- [[T3M2 - Prokaryotic Transcriptional Regulation]]
