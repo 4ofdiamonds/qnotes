@@ -1,7 +1,7 @@
 ---
-lastSync: Wed Oct 01 2025 03:11:07 GMT-0400 (Eastern Daylight Time)
+lastSync: Thu Oct 02 2025 16:04:49 GMT-0400 (Eastern Daylight Time)
 ---
-# T2M2 - The Genetic Code
+# T2M3 - Translation
 # Unit 1 | Molecular Components Contribute to Translation
 ## Translation requires many components
 - Transcription requires hella components
