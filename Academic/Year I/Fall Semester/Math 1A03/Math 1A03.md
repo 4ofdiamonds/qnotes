@@ -46,6 +46,7 @@ lastSync: Mon Oct 06 2025 22:34:11 GMT-0400 (Eastern Daylight Time)
 		- [[4.1 - Maximum and Minimum Values]]
 		- [[4.2 - Mean value theorm]]
 		- [[4.3 - How derivatives shape the graph]]
+		- [[4.4 Indeterminate Forms and L'Hospital's Rule]]
 		- [[4.8 - Newtons Method]]
 	- **Tutorials**
 		- [[U4T1]]
