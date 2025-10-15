@@ -1,5 +1,5 @@
 ---
-lastSync: Tue Oct 07 2025 15:46:38 GMT-0400 (Eastern Daylight Time)
+lastSync: Tue Oct 14 2025 01:06:41 GMT-0400 (Eastern Daylight Time)
 dg-publish: true
 ---
 %% Begin Waypoint %%
@@ -26,6 +26,9 @@ dg-publish: true
 	- **[[Biology 1A03]]**
 		- **Unit 0 - About the Course**
 			- **Lectures**
+		- **Unit 1 - About the Course**
+			- **Tutorials**
+				- [[T2]]
 		- **Unit 1 - The Structure of the Cell**
 			- **Lectures**
 				- [[T1L1R - Cellular and Molecular Biology]]
@@ -50,6 +53,7 @@ dg-publish: true
 		- **Unit 3 - Responding to the Enviornment**
 			- **Lectures**
 				- [[T3L1A - Responding to the environment]]
+				- [[T3L2A - Managing lactose intolerance]]
 			- **Modules**
 				- [[T3M1 - Modulating Transcription]]
 				- [[T3M2 - Prokaryotic Transcriptional Regulation]]
@@ -86,6 +90,7 @@ dg-publish: true
 				- [[4.1 - Maximum and Minimum Values]]
 				- [[4.2 - Mean value theorm]]
 				- [[4.3 - How derivatives shape the graph]]
+				- [[4.4 Indeterminate Forms and L'Hospital's Rule]]
 				- [[4.8 - Newtons Method]]
 			- **Tutorials**
 				- [[U4T1]]
@@ -94,7 +99,6 @@ dg-publish: true
 			- **Labs**
 				- [[Lab 1 - Kinematics]]
 			- **Lectures**
-				- [[1.0 Physics for the Chemical and Physical Sciences]]
 				- [[U1L1 - 1D Kinematics]]
 				- [[U1L2 - Kinematics in 1D]]
 				- [[U1L3 - Kinematics in 1D]]
