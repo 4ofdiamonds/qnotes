@@ -1,11 +1,11 @@
 ---
-lastSync: Mon Oct 06 2025 22:34:05 GMT-0400 (Eastern Daylight Time)
+lastSync: Tue Oct 07 2025 23:50:18 GMT-0400 (Eastern Daylight Time)
 ---
 #todo 
 - [x] Foundations Kritik Evaluation 📅 2025-10-01 ✅ 2025-10-06
 - [x] Foundations Kritik Feddback 📅 2025-10-03 ✅ 2025-10-06
-- [ ] Foundations Reflection 1 📅 2025-10-07
-- [ ] Foundations Q v Q 📅 2025-10-08
+- [x] Foundations Reflection 1 📅 2025-10-07 ✅ 2025-10-07
+- [x] Foundations Q v Q 📅 2025-10-08 ✅ 2025-10-15
 
 %% Begin Waypoint %%
 - **Unit 1 - History and Research**
