@@ -26,9 +26,9 @@ lastSync: Sun Oct 05 2025 15:59:49 GMT-0400 (Eastern Daylight Time)
 - [x] Kin Module 13 📅 2025-10-01 ✅ 2025-10-03
 # Week Oct 6
 - [x] Kin Prelab 2 📅 2025-10-06 ✅ 2025-10-05
-- [ ] Kin Module 14 📅 2025-10-08
-- [ ] Kin Module 15 📅 2025-10-08
-- [ ] Kin Module 16 📅 2025-10-08
+- [x] Kin Module 14 📅 2025-10-08 ✅ 2025-10-15
+- [x] Kin Module 15 📅 2025-10-08 ✅ 2025-10-15
+- [x] Kin Module 16 📅 2025-10-08 ✅ 2025-10-15
 # Week Oct 20
 - [ ] Kin Case Study 3 📅 2025-10-22
 # Week Oct 27
