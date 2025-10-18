@@ -1,0 +1,131 @@
+---
+lastSync: Tue Oct 14 2025 01:06:41 GMT-0400 (Eastern Daylight Time)
+dg-publish: true
+---
+%% Begin Waypoint %%
+- **Fall Semester**
+	- **[[Anatomy 1A03]]**
+		- [[Anatomy 1A03-DESKTOP-4LRJ09O]]
+		- **Unit 1 - Everything**
+			- **Case Studies**
+				- [[CS1]]
+				- [[CS2]]
+			- **Modules**
+				- [[M1 - Terminology and the Body Plan]]
+				- [[M2 - Homeostasis]]
+				- [[M3 - Embryology and Development]]
+				- [[M4 - Embryology and Development Part 2]]
+				- [[M5 - Embryology and Development Part 3]]
+				- [[M6 - Embryology and Development Part 4]]
+				- [[M7 - Epithelial Tissues]]
+				- [[M8 Connective Tissues]]
+				- [[M9 Functional Organization of the Nervous Tissue]]
+				- [[M10 - Cells of the Nervous System]]
+				- [[M11 - Brain Overview & Protective Layers]]
+				- [[M12 - Brain Brainstem & Cerebellum]]
+				- [[M13 - Brain Diencephalon & Cerebrum]]
+				- [[M14 - Cranial Nerves]]
+				- [[M15 - Resting Membrane Potential]]
+				- [[M16 - Changing Membrane Potential]]
+	- **[[Biology 1A03]]**
+		- **Unit 0 - About the Course**
+			- **Lectures**
+		- **Unit 1 - About the Course**
+			- **Tutorials**
+				- [[T2]]
+		- **Unit 1 - The Structure of the Cell**
+			- **Lectures**
+				- [[T1L1R - Cellular and Molecular Biology]]
+				- [[T1L2A - Amazing Energy Reserves in Animals]]
+				- [[T1L3R - Cellular and Molecular Biology]]
+				- [[T1L4A - Understanding Cystic Fibrosis]]
+			- **Modules**
+				- [[T1M1 - The Composition and Structure of Membranes]]
+				- [[T1M2 - Organelles and Energy]]
+				- [[T1M3 - Proteins]]
+				- [[T1M4 - Nucleic Acids]]
+		- **Unit 2 - From Gene to Protein**
+			- **Lectures**
+				- [[T2L1R - From Gene to Protiein]]
+				- [[T2L2A - From Gene to Protein]]
+				- [[T2L4A - Translation and The Complex Proteome]]
+			- **Modules**
+				- [[T2M1 - Transcription]]
+				- [[T2M2 - The Genetic Code]]
+				- [[T2M3 - Translation]]
+				- [[T2M4 - The complex proteome]]
+		- **Unit 3 - Responding to the Enviornment**
+			- **Lectures**
+				- [[T3L1A - Responding to the environment]]
+				- [[T3L2A - Managing lactose intolerance]]
+			- **Modules**
+				- [[T3M1 - Modulating Transcription]]
+				- [[T3M2 - Prokaryotic Transcriptional Regulation]]
+	- **[[Foundations 1K03]]**
+	- **[[Math 1A03]]**
+		- **Unit 0 - Misc**
+			- **Reviews**
+				- [[MT1]]
+		- **Unit 1 - Review**
+			- **Lectures**
+				- [[1.0 - Trigonometry]]
+				- [[1.5 - Inverse Function and Logorithms]]
+			- **Tutorials**
+				- [[U1T1]]
+		- **Unit 2 - Continuity**
+			- **Lectures**
+				- [[2.5 - Continuity]]
+				- [[2.7 - Derivatives]]
+				- [[2.8 Derivatives as a Function]]
+			- **Tutorials**
+				- [[U2T1]]
+		- **Unit 3 - Derivatives**
+			- **Lectures**
+				- [[3.1 Derivative of polynomials and the exponential]]
+				- [[3.2 - The product and quotient rule]]
+				- [[3.3 - Derivative of trigonometric functions]]
+				- [[3.4 - The chain rule]]
+				- [[3.5 Implicit differentiation]]
+				- [[3.6 Derivative of the logarithm]]
+				- [[3.11 - Hyperbolic Functions]]
+			- **Tutorials**
+				- [[U3T1]]
+				- [[U3T2]]
+		- **Unit 4 - Optimizations**
+			- **Lectures**
+				- [[4.1 - Maximum and Minimum Values]]
+				- [[4.2 - Mean value theorm]]
+				- [[4.3 - How derivatives shape the graph]]
+				- [[4.4 Indeterminate Forms and L'Hospital's Rule]]
+				- [[4.8 - Newtons Method]]
+			- **Tutorials**
+				- [[U4T1]]
+	- **[[Physics 1C03]]**
+		- **Unit 1 - 1D Kinematics**
+			- **Labs**
+				- [[Lab 1 - Kinematics]]
+			- **Lectures**
+				- [[U1L1 - 1D Kinematics]]
+				- [[U1L2 - Kinematics in 1D]]
+				- [[U1L3 - Kinematics in 1D]]
+				- [[U1L4 - 1D Kinematics]]
+		- **Unit 2 - Momentum**
+			- **Lectures**
+				- [[U2L1 - Momentum]]
+				- [[U2L2 - Momentum]]
+				- [[U2L3 - Momentum]]
+		- **Unit 3 - Energy**
+			- **Lectures**
+				- [[U3L1 - Collisions and Energy]]
+				- [[U3L2 - Collisions and Energy]]
+				- [[U3L3 - Relative Motion]]
+		- **Unit 4 - Relative Velocity**
+			- **Labs**
+				- [[L5 - Uncertainty]]
+			- **Lectures**
+				- [[U4L1 - Relative Velocity]]
+				- [[U4L2 - Relative Velocity]]
+				- [[U4L3 - Relative Motion]]
+- [[Year I-DESKTOP-4LRJ09O]]
+
+%% End Waypoint %%
