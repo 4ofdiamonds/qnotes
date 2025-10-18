@@ -5,8 +5,6 @@ dg-publish: true
 %% Begin Waypoint %%
 - **Fall Semester**
 	- **[[Anatomy 1A03]]**
-		- [[Anatomy 1A03-DESKTOP-4LRJ09O-2]]
-		- [[Anatomy 1A03-DESKTOP-4LRJ09O]]
 		- **Unit 1 - Everything**
 			- **Case Studies**
 				- [[CS1]]
