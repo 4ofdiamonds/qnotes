@@ -7,14 +7,17 @@ lastSync: Mon Oct 06 2025 22:34:11 GMT-0400 (Eastern Daylight Time)
 - [x] Math Assignment 2 📅 2025-09-19 ✅ 2025-09-18
 - [x] Math Assignment 3 📅 2025-09-26 ✅ 2025-09-26
 - [x] Math Assignment 4 📅 2025-10-03 ✅ 2025-10-06
-- [ ] Math Assignment 5 📅 2025-10-24
-- [ ] Math Assignment 6 📅 2025-10-31
-- [ ] Math Assignment 7 📅 2025-11-07
-- [ ] Math Assignment 8 📅 2025-11-21
-- [ ] Math Assignment 9 📅 2025-11-28
-- [ ] Math Assignment 10 📅 2025-12-4
+- [x] Math Assignment 5 📅 2025-10-24 ✅ 2025-10-15
+- [x] Math Assignment 6 📅 2025-10-31 ✅ 2025-10-15
+- [x] Math Assignment 7 📅 2025-11-07 ✅ 2025-10-15
+- [x] Math Assignment 8 📅 2025-11-21 ✅ 2025-10-15
+- [x] Math Assignment 9 📅 2025-11-28 ✅ 2025-10-15
+- [x] Math Assignment 10 📅 2025-12-4 ✅ 2025-10-15
 
 %% Begin Landmark %%
+- **Unit 0 - Misc**
+	- **Reviews**
+		- [[MT1]]
 - **Unit 1 - Review**
 	- **Lectures**
 		- [[1.0 - Trigonometry]]
@@ -40,7 +43,6 @@ lastSync: Mon Oct 06 2025 22:34:11 GMT-0400 (Eastern Daylight Time)
 	- **Tutorials**
 		- [[U3T1]]
 		- [[U3T2]]
-- **Unit 4 -**
 - **Unit 4 - Optimizations**
 	- **Lectures**
 		- [[4.1 - Maximum and Minimum Values]]

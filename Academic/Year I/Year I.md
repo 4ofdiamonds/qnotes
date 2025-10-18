@@ -5,6 +5,8 @@ dg-publish: true
 %% Begin Waypoint %%
 - **Fall Semester**
 	- **[[Anatomy 1A03]]**
+		- [[Anatomy 1A03-DESKTOP-4LRJ09O-2]]
+		- [[Anatomy 1A03-DESKTOP-4LRJ09O]]
 		- **Unit 1 - Everything**
 			- **Case Studies**
 				- [[CS1]]
@@ -23,6 +25,10 @@ dg-publish: true
 				- [[M11 - Brain Overview & Protective Layers]]
 				- [[M12 - Brain Brainstem & Cerebellum]]
 				- [[M13 - Brain Diencephalon & Cerebrum]]
+				- [[M14 - Cranial Nerves]]
+				- [[M15 - Resting Membrane Potential]]
+				- [[M16 - Changing Membrane Potential]]
+				- [[M17 - Neurotransmission]]
 	- **[[Biology 1A03]]**
 		- **Unit 0 - About the Course**
 			- **Lectures**
@@ -59,6 +65,9 @@ dg-publish: true
 				- [[T3M2 - Prokaryotic Transcriptional Regulation]]
 	- **[[Foundations 1K03]]**
 	- **[[Math 1A03]]**
+		- **Unit 0 - Misc**
+			- **Reviews**
+				- [[MT1]]
 		- **Unit 1 - Review**
 			- **Lectures**
 				- [[1.0 - Trigonometry]]
@@ -84,7 +93,6 @@ dg-publish: true
 			- **Tutorials**
 				- [[U3T1]]
 				- [[U3T2]]
-		- **Unit 4 -**
 		- **Unit 4 - Optimizations**
 			- **Lectures**
 				- [[4.1 - Maximum and Minimum Values]]
@@ -120,5 +128,7 @@ dg-publish: true
 				- [[U4L1 - Relative Velocity]]
 				- [[U4L2 - Relative Velocity]]
 				- [[U4L3 - Relative Motion]]
+- [[Year I-DESKTOP-4LRJ09O-2]]
+- [[Year I-DESKTOP-4LRJ09O]]
 
 %% End Waypoint %%

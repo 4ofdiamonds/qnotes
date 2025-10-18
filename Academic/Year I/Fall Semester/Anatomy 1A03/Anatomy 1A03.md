@@ -30,42 +30,43 @@ lastSync: Sun Oct 05 2025 15:59:49 GMT-0400 (Eastern Daylight Time)
 - [x] Kin Module 15 📅 2025-10-08 ✅ 2025-10-15
 - [x] Kin Module 16 📅 2025-10-08 ✅ 2025-10-15
 # Week Oct 20
-- [ ] Kin Case Study 3 📅 2025-10-22
+- [x] Kin Case Study 3 📅 2025-10-22 ✅ 2025-10-15
 # Week Oct 27
-- [ ] Kin Prelab 3 📅 2025-10-27
-- [ ] Kin Module 17 📅 2025-10-29
-- [ ] Kin Module 18 📅 2025-10-29
-- [ ] Kin Module 19 📅 2025-10-29
-- [ ] Kin Module 20 📅 2025-10-29
-- [ ] Kin Module 21 📅 2025-10-29
-- [ ] Kin Module 22 📅 2025-10-29
+- [x] Kin Prelab 3 📅 2025-10-27 ✅ 2025-10-15
+- [x] Kin Module 17 📅 2025-10-29 ✅ 2025-10-15
+- [x] Kin Module 18 📅 2025-10-29 ✅ 2025-10-15
+- [x] Kin Module 19 📅 2025-10-29 ✅ 2025-10-15
+- [x] Kin Module 20 📅 2025-10-29 ✅ 2025-10-15
+- [x] Kin Module 21 📅 2025-10-29 ✅ 2025-10-15
+- [x] Kin Module 22 📅 2025-10-29 ✅ 2025-10-15
 # Week Nov 3
-- [ ] Kin Case Study 4 📅 2025-11-05
-- [ ] Kin Module 23 📅 2025-11-05
-- [ ] Kin Module 24 📅 2025-11-05
-- [ ] Kin Module 25 📅 2025-11-05
+- [x] Kin Case Study 4 📅 2025-11-05 ✅ 2025-10-15
+- [x] Kin Module 23 📅 2025-11-05 ✅ 2025-10-15
+- [x] Kin Module 24 📅 2025-11-05 ✅ 2025-10-15
+- [x] Kin Module 25 📅 2025-11-05 ✅ 2025-10-15
 # Week Nov 10
-- [ ] Kin Prelab 4 📅 2025-11-10
-- [ ] Kin Module 26 📅 2025-11-12
-- [ ] Kin Module 27 📅 2025-11-12
-- [ ] Kin Module 28 📅 2025-11-12
+- [x] Kin Prelab 4 📅 2025-11-10 ✅ 2025-10-15
+- [x] Kin Module 26 📅 2025-11-12 ✅ 2025-10-15
+- [x] Kin Module 27 📅 2025-11-12 ✅ 2025-10-15
+- [x] Kin Module 28 📅 2025-11-12 ✅ 2025-10-15
 # Week Nov 17
-- [ ] Kin Case Study 5 📅 2025-11-19
-- [ ] Kin Module 29 📅 2025-11-19
-- [ ] Kin Module 30 📅 2025-11-19
-- [ ] Kin Module 31 📅 2025-11-19
+- [x] Kin Case Study 5 📅 2025-11-19 ✅ 2025-10-15
+- [x] Kin Module 29 📅 2025-11-19 ✅ 2025-10-15
+- [x] Kin Module 30 📅 2025-11-19 ✅ 2025-10-15
+- [x] Kin Module 31 📅 2025-11-19 ✅ 2025-10-15
 # Week Nov 24
-- [ ] Kin Prelab 5 📅 2025-11-24
-- [ ] Kin Module 32 📅 2025-11-26
-- [ ] Kin Module 33 📅 2025-11-26
-- [ ] Kin Module 34 📅 2025-11-26
+- [x] Kin Prelab 5 📅 2025-11-24 ✅ 2025-10-15
+- [x] Kin Module 32 📅 2025-11-26 ✅ 2025-10-15
+- [x] Kin Module 33 📅 2025-11-26 ✅ 2025-10-15
+- [x] Kin Module 34 📅 2025-11-26 ✅ 2025-10-15
 
 %% Begin Landmark %%
+- [[Anatomy 1A03-DESKTOP-4LRJ09O-2]]
+- [[Anatomy 1A03-DESKTOP-4LRJ09O]]
 - **Unit 1 - Everything**
 	- **Case Studies**
 		- [[CS1]]
 		- [[CS2]]
-	- **Lectures**
 	- **Modules**
 		- [[M1 - Terminology and the Body Plan]]
 		- [[M2 - Homeostasis]]
@@ -80,5 +81,9 @@ lastSync: Sun Oct 05 2025 15:59:49 GMT-0400 (Eastern Daylight Time)
 		- [[M11 - Brain Overview & Protective Layers]]
 		- [[M12 - Brain Brainstem & Cerebellum]]
 		- [[M13 - Brain Diencephalon & Cerebrum]]
+		- [[M14 - Cranial Nerves]]
+		- [[M15 - Resting Membrane Potential]]
+		- [[M16 - Changing Membrane Potential]]
+		- [[M17 - Neurotransmission]]
 
 %% End Landmark %%
