@@ -61,8 +61,6 @@ lastSync: Sun Oct 05 2025 15:59:49 GMT-0400 (Eastern Daylight Time)
 - [x] Kin Module 34 📅 2025-11-26 ✅ 2025-10-15
 
 %% Begin Landmark %%
-- [[Anatomy 1A03-DESKTOP-4LRJ09O-2]]
-- [[Anatomy 1A03-DESKTOP-4LRJ09O]]
 - **Unit 1 - Everything**
 	- **Case Studies**
 		- [[CS1]]
