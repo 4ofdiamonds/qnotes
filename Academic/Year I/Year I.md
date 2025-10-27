@@ -30,8 +30,6 @@ dg-publish: true
 				- [[M18 - Spinal Cord and Spinal Nerves]]
 	- **[[Biology 1A03]]**
 		- **Unit 0 - About the Course**
-			- **Lectures**
-		- **Unit 1 - About the Course**
 			- **Tutorials**
 				- [[T2]]
 		- **Unit 1 - The Structure of the Cell**
@@ -57,7 +55,7 @@ dg-publish: true
 				- [[T2M4 - The complex proteome]]
 		- **Unit 3 - Responding to the Enviornment**
 			- **Lectures**
-				- [[T3L1A - Responding to the environment]]
+				- [[T3L1R - Responding to the environment]]
 				- [[T3L2A - Managing lactose intolerance]]
 				- [[T3L3R - Gene regulation in eukaryotes]]
 				- [[T3L4A - Epigenetics and gene regulation]]
@@ -65,6 +63,7 @@ dg-publish: true
 				- [[T3M1 - Modulating Transcription]]
 				- [[T3M2 - Prokaryotic Transcriptional Regulation]]
 				- [[T3M3 - Eukaryotic Transcriptional Regulation]]
+				- [[T4M4 - Turning off the Signal]]
 	- **[[Foundations 1K03]]**
 	- **[[Math 1A03]]**
 		- **Unit 0 - Misc**
@@ -141,6 +140,7 @@ dg-publish: true
 		- **Unit 6 - Fores**
 			- **Labs**
 				- [[Physics Lab 7]]
-			- [[U3L1 - Forces]]
+			- **Lectures**
+				- [[U3L1 - Forces]]
 
 %% End Waypoint %%
