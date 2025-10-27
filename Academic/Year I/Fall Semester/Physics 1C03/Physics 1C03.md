@@ -39,5 +39,13 @@ lastSync: Tue Oct 07 2025 01:37:50 GMT-0400 (Eastern Daylight Time)
 		- [[U4L1 - Relative Velocity]]
 		- [[U4L2 - Relative Velocity]]
 		- [[U4L3 - Relative Motion]]
+- **Unit 5 - Energy Again**
+	- **Lectures**
+		- [[U5L1 - Energy]]
+		- [[U5T2 - Spring Energy]]
+- **Unit 6 - Fores**
+	- **Labs**
+		- [[Physics Lab 7]]
+	- [[U3L1 - Forces]]
 
 %% End Landmark %%
