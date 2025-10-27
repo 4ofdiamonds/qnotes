@@ -52,4 +52,30 @@
 ## Transcriptional repressors can halt transcription
 - There are transcriptional repressors which can bind to silencer sites upstream of the gene and will interrupt the RNA polymerase
 ![[Pasted image 20251026213353.png]]
-## 
+# Unit 4 | Developmental changes in gene expression
+## Human globin gene expression and development
+- Blood cell progenitors differentiate into functional red blood cells that contain hemoglobin (binds to oxygen)
+- Both the adult and fetus will have 2 alpha globin, but the adult will have 2 beta globin and the fetus will have 2 gamma globin
+- Beta globin can sequester more oxygen but is not required after birth so it turns off
+![[Pasted image 20251026214249.png]]
+## Regulation of human globin genes
+- In fetal cells the beta-globin chromatin is wound up to inhibit transcription and the gamma-globin chromatin is open for transcription. The opposite is observed in adult cells
+- Specific transcription factors will turn off or on the globin genes when a fetus grows into an adult
+![[Pasted image 20251026214612.png]]
+# Unit 5 | Repression of transcription by methylation
+## Modifying DNA
+- Even if histones permit unwinding, DNA can still be modified to inhibit transcription
+![[Pasted image 20251026214806.png]]
+## Methylation near the promoter of a gene
+- CpG islands are methylation of a string cytosine bases in or near promoter regions to prevent RNA polymerase from attaching
+![[Pasted image 20251026215025.png]]
+## Methylation represses transcription
+- DNA methylation is a epigenetic mechanism which responds to the environment without changing the nucleotide sequence of DNA
+- The methylation state is heritable form mother to daughter cell
+![[Pasted image 20251026215213.png]]
+## Methylation promotes chromatin remodeling
+- histone deacetylases (HDAC) can bind to methylated DNA and remove acetyl groups from neighboring histones which further repress transcription
+![[Pasted image 20251026215545.png]]
+# Unit 6 | Comparing Prokaryotic and Eukaryotic Regulation
+- Eukaryotic chromatin is wound up in the default "off" position and it is only with chromatin remodeling when DNA is transcripted
+- Prokaryote DNA is in the default "on"
