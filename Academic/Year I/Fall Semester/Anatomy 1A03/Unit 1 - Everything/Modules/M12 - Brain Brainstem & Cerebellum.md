@@ -10,7 +10,7 @@ lastSync: Fri Oct 03 2025 04:52:10 GMT-0400 (Eastern Daylight Time)
 - **Decussation of the pyramids**: Right before they enter the spinal chord the pyramids will cross over which is why the controls of the brain hemispheres are flipped
 - **Olive**: A bundle of nuclei which relay information from the joints and periphery to the cerebellum. Also found in sound perception
 - **Cranial Nerves (Hypoglossal XII nerve)**: The cell bodies are located in the medulla (Hypoglossal Nucleus)
-- Contains the cranial nerves V, VII, IX, X, XI, XII
+- Contains the cranial nerves IX, X, XI, XII
 ![[Pasted image 20251003043901.png]]
 # Pons, Midbrain & Reticular Formation
 ## Pons

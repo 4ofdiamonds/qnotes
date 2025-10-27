@@ -137,6 +137,7 @@ f'(x) & =2\cos x+\sin 2x \\
  \\
 x & =\frac{\pi}{2}, \frac{3\pi}{2}
 \end{align}$$
+- 31) - D
 - 72) - D
 $$\begin{align}
  & e^{x-y^2}(1-2y\times y')=\frac{y'(1+e^{x^2})-y(2e^{x^2}x)}{(1+e^{x^2})^2} \\

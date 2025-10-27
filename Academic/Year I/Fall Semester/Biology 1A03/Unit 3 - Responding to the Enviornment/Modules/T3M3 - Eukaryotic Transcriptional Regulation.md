@@ -37,3 +37,19 @@
 - The DNA can fit in with the alpha helix or the functional groups and once a strong enough conformational interaction is made it will begin recruit other transcriptional factors and RNA polymerase to being activation of transcription
 ![[T3M3 - Eukaryotic Transcriptional Regulation-1761030890229.jpeg]]
 ## Promoters recruit RNA polymerase
+- The core promoter is the binding site that is required for binding RNA polymerase and associated transcription factors
+- The TATA box region is usually recognized by the TATA-binding protein subunit of the transcription factor TFIID
+- The B recognition element is located close to the TATA region TFIIB general transcription factors will bind there
+- The proximity of the TATA and BRE allows for the transcription factors to have protein to protein interactions that assist with assembly of the transcription initiation complex
+![[Pasted image 20251026203504.png]]
+## Cis-acting sequences are bound by proteins
+- Transcription factors will bind to enhancer regions which allows them to interact with basal machinery at the promoter region
+- Transcription factors aid RNA polymerase recruitment
+## Eukaryotic transcription
+- Once all components are in place, Adaptor or mediator proteins will connect the proteins at the enhancer and promoter region by folding the DNA on itself
+- The enhancer proteins will interact with RNA polymerase to start transcription
+![[Pasted image 20251026204310.png]]
+## Transcriptional repressors can halt transcription
+- There are transcriptional repressors which can bind to silencer sites upstream of the gene and will interrupt the RNA polymerase
+![[Pasted image 20251026213353.png]]
+## 

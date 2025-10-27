@@ -1,4 +1,4 @@
-# Gate-Ion Channels
+ # Gate-Ion Channels
 ## Electrical Signals in Neurons
 - An electrical signal is propagated through a change in membrane potential which is done through gated ion channels
 ### Ligand-Gated Channel

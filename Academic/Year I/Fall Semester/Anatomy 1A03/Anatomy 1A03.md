@@ -83,5 +83,6 @@ lastSync: Sun Oct 05 2025 15:59:49 GMT-0400 (Eastern Daylight Time)
 		- [[M15 - Resting Membrane Potential]]
 		- [[M16 - Changing Membrane Potential]]
 		- [[M17 - Neurotransmission]]
+		- [[M18 - Spinal Cord and Spinal Nerves]]
 
 %% End Landmark %%

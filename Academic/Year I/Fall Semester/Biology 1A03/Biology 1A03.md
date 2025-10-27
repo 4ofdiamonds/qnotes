@@ -75,8 +75,11 @@ lastSync: Wed Oct 08 2025 12:26:13 GMT-0400 (Eastern Daylight Time)
 	- **Lectures**
 		- [[T3L1A - Responding to the environment]]
 		- [[T3L2A - Managing lactose intolerance]]
+		- [[T3L3R - Gene regulation in eukaryotes]]
+		- [[T3L4A - Epigenetics and gene regulation]]
 	- **Modules**
 		- [[T3M1 - Modulating Transcription]]
 		- [[T3M2 - Prokaryotic Transcriptional Regulation]]
+		- [[T3M3 - Eukaryotic Transcriptional Regulation]]
 
 %% End Landmark %%

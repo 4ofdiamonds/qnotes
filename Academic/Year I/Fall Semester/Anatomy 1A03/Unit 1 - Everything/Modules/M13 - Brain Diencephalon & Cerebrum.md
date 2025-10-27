@@ -6,7 +6,7 @@ lastSync: Fri Oct 03 2025 06:28:42 GMT-0400 (Eastern Daylight Time)
 
 ![[Pasted image 20251003052104.png]]
 ## Thalamus
-- Composed of two masses of gray matter connected to each other by the interthalamic adhesion and is surrounded by the third ventricle
+- Composed of two masses of gray matter connected to each other by the interthalaimic adhesion and is surrounded by the third ventricle
 - The gray matter mass had different areas of nuclei
 	- **Medial Geniculate Nucleus**: Auditory impulses
 	- **Lateral Geniculate Nucleus**: Visual impulses
