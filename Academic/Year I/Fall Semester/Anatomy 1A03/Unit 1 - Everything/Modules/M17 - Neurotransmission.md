@@ -55,5 +55,21 @@
 - 3. Neurotransmitter molecules diffuse across the synaptic cleft
 - 4. The Transmitters will bind to the ligand gated Na+ channels
 - 5. Na+ diffuses into cell and cause depolarization
-
-
+# Removal of NT & Postsynaptic Potentials
+## Removal of Neurotransmitter
+- **Diffusion**: Move down concentration Gradient away from the synaptic cleft
+- **Enzyme Degradation**: Acetylcholinesterase will break down the Acetylcholine so it can no longer bind. This can still be combined back together in the synaptic terminal
+- **Uptake of Neuron or Glial Cells**: Will transport the NT back into the synaptic terminal
+- **Example**: Prozac acts as a serotonin uptake inhibitor which prevents the reuptake pump which leaves the serotonin in the synaptic cleft for longer which will trigger more allow serotonin to stimulate the postsynaptic membrane to reduce depressive symptoms
+![[Pasted image 20251018181237.png]]
+## Postsynaptic Potentials
+- **Excitatory Postsynaptic Potential**: Depolarization of the membrane which will cause an action potential and cell response
+- **Inhibitory Postsynaptic Potential**: Hyperpolarization of the membrane which will move the cell away from threshold (could happen when opening a potassium or chloride channel). This could be useful for stopping unnecessary information from going to the brain
+![[Pasted image 20251018181657.png]]
+## Summation
+- **Spatial Summation**: When different neurons trigger in different places on the cell body which will add together to create a action potential
+- **Temporal Summation**: When the same neuron triggers multiple times to add up to create and action potential
+![[Pasted image 20251018181949.png]]
+## Summation of Postsynaptic Potentials
+- Excitatory and Inhibitory Potentials will cancel each other out (in this example it will go through because there is a temporal summation that has not been cancelled)
+![[Pasted image 20251018182041.png]]
