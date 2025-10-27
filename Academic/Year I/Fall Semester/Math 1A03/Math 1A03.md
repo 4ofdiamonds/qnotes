@@ -18,6 +18,7 @@ lastSync: Mon Oct 06 2025 22:34:11 GMT-0400 (Eastern Daylight Time)
 - **Unit 0 - Misc**
 	- **Reviews**
 		- [[MT1]]
+		- [[PT1]]
 - **Unit 1 - Review**
 	- **Lectures**
 		- [[1.0 - Trigonometry]]
@@ -49,8 +50,11 @@ lastSync: Mon Oct 06 2025 22:34:11 GMT-0400 (Eastern Daylight Time)
 		- [[4.2 - Mean value theorm]]
 		- [[4.3 - How derivatives shape the graph]]
 		- [[4.4 Indeterminate Forms and L'Hospital's Rule]]
+		- [[4.5 - Summary of Curve Sketching]]
+		- [[4.7 - Optimization]]
 		- [[4.8 - Newtons Method]]
 	- **Tutorials**
 		- [[U4T1]]
+		- [[U4T2]]
 
 %% End Landmark %%
