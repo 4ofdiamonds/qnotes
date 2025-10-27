@@ -8,7 +8,6 @@
 - Integrates information and produces responses
 - Extends from the **foramen magnum to L2**
 - There are 31 spinal nerves in total
-
 ### Enlargements
 - The spinal cord is not uniform in diameter and has two enlargements at the:
 	- **Cervical Enlargement**: C4-T1
