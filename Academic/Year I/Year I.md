@@ -27,6 +27,7 @@ dg-publish: true
 				- [[M15 - Resting Membrane Potential]]
 				- [[M16 - Changing Membrane Potential]]
 				- [[M17 - Neurotransmission]]
+				- [[M18 - Spinal Cord and Spinal Nerves]]
 	- **[[Biology 1A03]]**
 		- **Unit 0 - About the Course**
 			- **Lectures**
@@ -58,14 +59,18 @@ dg-publish: true
 			- **Lectures**
 				- [[T3L1A - Responding to the environment]]
 				- [[T3L2A - Managing lactose intolerance]]
+				- [[T3L3R - Gene regulation in eukaryotes]]
+				- [[T3L4A - Epigenetics and gene regulation]]
 			- **Modules**
 				- [[T3M1 - Modulating Transcription]]
 				- [[T3M2 - Prokaryotic Transcriptional Regulation]]
+				- [[T3M3 - Eukaryotic Transcriptional Regulation]]
 	- **[[Foundations 1K03]]**
 	- **[[Math 1A03]]**
 		- **Unit 0 - Misc**
 			- **Reviews**
 				- [[MT1]]
+				- [[PT1]]
 		- **Unit 1 - Review**
 			- **Lectures**
 				- [[1.0 - Trigonometry]]
@@ -97,9 +102,12 @@ dg-publish: true
 				- [[4.2 - Mean value theorm]]
 				- [[4.3 - How derivatives shape the graph]]
 				- [[4.4 Indeterminate Forms and L'Hospital's Rule]]
+				- [[4.5 - Summary of Curve Sketching]]
+				- [[4.7 - Optimization]]
 				- [[4.8 - Newtons Method]]
 			- **Tutorials**
 				- [[U4T1]]
+				- [[U4T2]]
 	- **[[Physics 1C03]]**
 		- **Unit 1 - 1D Kinematics**
 			- **Labs**
@@ -126,7 +134,13 @@ dg-publish: true
 				- [[U4L1 - Relative Velocity]]
 				- [[U4L2 - Relative Velocity]]
 				- [[U4L3 - Relative Motion]]
-- [[Year I-DESKTOP-4LRJ09O-2]]
-- [[Year I-DESKTOP-4LRJ09O]]
+		- **Unit 5 - Energy Again**
+			- **Lectures**
+				- [[U5L1 - Energy]]
+				- [[U5T2 - Spring Energy]]
+		- **Unit 6 - Fores**
+			- **Labs**
+				- [[Physics Lab 7]]
+			- [[U3L1 - Forces]]
 
 %% End Waypoint %%
