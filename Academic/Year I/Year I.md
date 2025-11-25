@@ -63,7 +63,30 @@ dg-publish: true
 				- [[T3M1 - Modulating Transcription]]
 				- [[T3M2 - Prokaryotic Transcriptional Regulation]]
 				- [[T3M3 - Eukaryotic Transcriptional Regulation]]
-				- [[T4M4 - Turning off the Signal]]
+				- [[T3M4 - Turning off the Signal]]
+		- **Unit 4 - DNA Replication and Mitosis**
+			- **Lectures**
+				- [[T4L1R - DNA Replication & Mitosis Modules 1 & 2]]
+				- [[T4L2A]]
+				- [[T4L3R]]
+				- [[T4L4A]]
+			- **Modules**
+				- [[T4M1 - The Cell Cycle]]
+				- [[T4M2 - Replication]]
+				- [[T4M3 - Applications of DNA Replication]]
+				- [[T4M4 - DNA Mutations]]
+			- **Tutorial**
+				- [[T4]]
+		- **Unit 5 - The Rrinciples of Inheritance**
+			- **Lectures**
+				- [[T5L1R]]
+				- [[T5L3R]]
+				- [[T5L4A - Genetic Variation and Innovations in Cell and Molecular Biology]]
+			- **Modules**
+				- [[T5M1 - The Principles of Inheritance]]
+				- [[T5M2 - Meiosis]]
+				- [[T5M3 - Sex Chromosomes and Linkage]]
+				- [[T5M4 - Our Personal Genome]]
 	- **[[Foundations 1K03]]**
 	- **[[Math 1A03]]**
 		- **Unit 0 - Misc**
@@ -104,9 +127,29 @@ dg-publish: true
 				- [[4.5 - Summary of Curve Sketching]]
 				- [[4.7 - Optimization]]
 				- [[4.8 - Newtons Method]]
+				- [[4.9 - Antiderivatives]]
+				- [[4.10 Sum Notation]]
 			- **Tutorials**
 				- [[U4T1]]
 				- [[U4T2]]
+				- [[U4T3]]
+		- **Unit 6 - Integration**
+			- **Lectures**
+				- [[6.1 Area between curves]]
+				- [[6.2 Volumes]]
+				- [[6.4 - Work]]
+				- [[6.5 - Average Value of a Function]]
+				- [[Untitled 5]]
+				- [[Untitled 6]]
+			- **Tutorials**
+				- [[U6T1]]
+		- **Unit 7 - More Integration**
+			- **Lectures**
+				- [[7.0 Intermezzo]]
+				- [[7.1 Integration by parts]]
+				- [[7.2 Trigonometric integrals]]
+				- [[7.3 Trigonometric Substitutions]]
+				- [[7.4 Partial fractions]]
 	- **[[Physics 1C03]]**
 		- **Unit 1 - 1D Kinematics**
 			- **Labs**
@@ -137,10 +180,22 @@ dg-publish: true
 			- **Lectures**
 				- [[U5L1 - Energy]]
 				- [[U5T2 - Spring Energy]]
-		- **Unit 6 - Fores**
+		- **Unit 6 - Forces**
 			- **Labs**
 				- [[Physics Lab 7]]
 			- **Lectures**
-				- [[U3L1 - Forces]]
+				- [[U6L1 - Forces]]
+				- [[U6L2 - Forces]]
+				- [[U6L3 - Forces]]
+		- **Unit 7 - Work**
+			- [[U7L1 - Work]]
+			- [[U7L2 - Work]]
+			- [[U7L3 - Work and 2D Motion]]
+		- **Unit 8 - 2D motion**
+			- [[U8L1 - 2D Motion]]
+			- [[U8L2 - 2D Motion Part 2]]
+			- [[U8L3 - 2D motion]]
+			- [[U8L4 - 2D Motion in a plane]]
+		- **Unit 9 -**
 
 %% End Waypoint %%
