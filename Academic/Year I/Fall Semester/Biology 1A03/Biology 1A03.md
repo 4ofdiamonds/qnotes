@@ -36,6 +36,29 @@ lastSync: Wed Oct 08 2025 12:26:13 GMT-0400 (Eastern Daylight Time)
 		- [[T3M1 - Modulating Transcription]]
 		- [[T3M2 - Prokaryotic Transcriptional Regulation]]
 		- [[T3M3 - Eukaryotic Transcriptional Regulation]]
-		- [[T4M4 - Turning off the Signal]]
+		- [[T3M4 - Turning off the Signal]]
+- **Unit 4 - DNA Replication and Mitosis**
+	- **Lectures**
+		- [[T4L1R - DNA Replication & Mitosis Modules 1 & 2]]
+		- [[T4L2A]]
+		- [[T4L3R]]
+		- [[T4L4A]]
+	- **Modules**
+		- [[T4M1 - The Cell Cycle]]
+		- [[T4M2 - Replication]]
+		- [[T4M3 - Applications of DNA Replication]]
+		- [[T4M4 - DNA Mutations]]
+	- **Tutorial**
+		- [[T4]]
+- **Unit 5 - The Rrinciples of Inheritance**
+	- **Lectures**
+		- [[T5L1R]]
+		- [[T5L3R]]
+		- [[T5L4A - Genetic Variation and Innovations in Cell and Molecular Biology]]
+	- **Modules**
+		- [[T5M1 - The Principles of Inheritance]]
+		- [[T5M2 - Meiosis]]
+		- [[T5M3 - Sex Chromosomes and Linkage]]
+		- [[T5M4 - Our Personal Genome]]
 
 %% End Landmark %%
