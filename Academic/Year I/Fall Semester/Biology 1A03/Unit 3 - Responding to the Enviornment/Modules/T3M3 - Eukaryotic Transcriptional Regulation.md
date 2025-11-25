@@ -22,7 +22,7 @@
 - In order for transcription to occur, chromatin remodeling must take place which is triggered by activator protein or transcription factors binds to accessible enhancer site
 ![[T3M3 - Eukaryotic Transcriptional Regulation-1761029374560.jpeg]]
 ## Histone modifications alter DNA winding
-- 1. The positively charged tails of the nucleosome histone proteins interact with the negatively charged DNA 
+- 1. The positively charged tails of the nucleosome histone proteins interact with the negatively charged DNA 1
 - 2. Acetylation of the tails weakens their polarity and will allow transcription factors to bind to the DNA
 - Activator proteins can recruit the coactivator enzyme histone acetyltransferase which will attach acetyl groups to lysine in the protein to reduce the charge
 ![[T3M3 - Eukaryotic Transcriptional Regulation-1761029987051.jpeg]]
