@@ -31,10 +31,22 @@ lastSync: Tue Oct 07 2025 01:37:50 GMT-0400 (Eastern Daylight Time)
 	- **Lectures**
 		- [[U5L1 - Energy]]
 		- [[U5T2 - Spring Energy]]
-- **Unit 6 - Fores**
+- **Unit 6 - Forces**
 	- **Labs**
 		- [[Physics Lab 7]]
 	- **Lectures**
-		- [[U3L1 - Forces]]
+		- [[U6L1 - Forces]]
+		- [[U6L2 - Forces]]
+		- [[U6L3 - Forces]]
+- **Unit 7 - Work**
+	- [[U7L1 - Work]]
+	- [[U7L2 - Work]]
+	- [[U7L3 - Work and 2D Motion]]
+- **Unit 8 - 2D motion**
+	- [[U8L1 - 2D Motion]]
+	- [[U8L2 - 2D Motion Part 2]]
+	- [[U8L3 - 2D motion]]
+	- [[U8L4 - 2D Motion in a plane]]
+- **Unit 9 -**
 
 %% End Landmark %%

@@ -137,7 +137,7 @@ lastSync: Thu Sep 18 2025 22:41:16 GMT-0400 (Eastern Daylight Time)
 			- [[1.7 Universal Gravitation]]
 			- [[Centripetal Force 1]]
 			- [[Centripetal Force]]
-			- [[Personal/Untitled]]
+			- [[Interesting Courses]]
 		- **Unit 4**
 			- [[4.1]]
 			- [[4.2]]
@@ -145,7 +145,7 @@ lastSync: Thu Sep 18 2025 22:41:16 GMT-0400 (Eastern Daylight Time)
 			- [[4.4]]
 			- [[4.6]]
 			- [[5.5]]
-			- [[Personal/Untitled]]
+			- [[Interesting Courses]]
 		- **Unit 4 1**
 		- **Unit 5**
 			- [[5.1]]
