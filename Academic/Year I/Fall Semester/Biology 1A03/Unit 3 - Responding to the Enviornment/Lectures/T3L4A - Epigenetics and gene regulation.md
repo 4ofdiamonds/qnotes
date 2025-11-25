@@ -1,4 +1,4 @@
-## Signals are detected by cells
+ ## Signals are detected by cells
 - Cells are constantly receiving signals which influence development of the cell
 ![[Pasted image 20251022123547.png]]
 ## Signals are detected by cells
