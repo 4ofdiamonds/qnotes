@@ -40,8 +40,28 @@ lastSync: Mon Oct 06 2025 22:34:11 GMT-0400 (Eastern Daylight Time)
 		- [[4.5 - Summary of Curve Sketching]]
 		- [[4.7 - Optimization]]
 		- [[4.8 - Newtons Method]]
+		- [[4.9 - Antiderivatives]]
+		- [[4.10 Sum Notation]]
 	- **Tutorials**
 		- [[U4T1]]
 		- [[U4T2]]
+		- [[U4T3]]
+- **Unit 6 - Integration**
+	- **Lectures**
+		- [[6.1 Area between curves]]
+		- [[6.2 Volumes]]
+		- [[6.4 - Work]]
+		- [[6.5 - Average Value of a Function]]
+		- [[Untitled 5]]
+		- [[Untitled 6]]
+	- **Tutorials**
+		- [[U6T1]]
+- **Unit 7 - More Integration**
+	- **Lectures**
+		- [[7.0 Intermezzo]]
+		- [[7.1 Integration by parts]]
+		- [[7.2 Trigonometric integrals]]
+		- [[7.3 Trigonometric Substitutions]]
+		- [[7.4 Partial fractions]]
 
 %% End Landmark %%
